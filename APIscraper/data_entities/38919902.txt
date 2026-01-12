@@ -1,0 +1,8 @@
+38919902|t|Medical nursing care of gastrointestinal tumour patients during chemotherapy.
+38919902|a|This research with gastrointestinal cancer patients analyzed the expected outcomes of nursing interventions on a) patient adherence to treatment; b) patient satisfaction with nursing care; and c) health of body conditions such as lung function. All patients (60 individuals) who underwent chemotherapy at The First Affiliated Hospital of Soochow University, Department of Traditional Chinese Medicine, were divided into two equal groups. Group 1 received planned care and Group 2 received evidence-based nursing interventions. The results showed that treatment adherence was higher in Group 2 than in the control group (p = 0.01). In addition, there was a higher rating by patients for the quality of nursing care (p = 0.01), as well as a higher score obtained for lung function (p = 0.01). Treatment adherence resulted in a decrease in the secondary infection rate in Group 2 (p = 0.05). The results showed that quality nursing intervention is effective for lung function improvement, stress level reduction, treatment plans, and a reduction of secondary infections.
+38919902	48	56	patients	Species	9606
+38919902	133	141	patients	Species	9606
+38919902	204	211	patient	Species	9606
+38919902	239	246	patient	Species	9606
+38919902	348	356	patients	Species	9606
+38919902	781	789	patients	Species	9606

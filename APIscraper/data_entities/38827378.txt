@@ -1,0 +1,25 @@
+38827378|t|Natural History and Real-World Treatment Outcomes for Patients With NSCLC Having
+38827378|a|EGFR exon 20 insertion (ex20ins) mutations account for approximately 10% of EGFR mutations in lung adenocarcinoma. Patients with ex20ins mutation do not respond to standard EGFR tyrosine kinase inhibitor therapy. In this work, we analyzed the characteristics, treatment patterns, and outcomes in this subgroup of patients with NSCLC. The American Society of Clinical Oncology CancerLinQ Discovery data set was queried to identify patients with initial diagnosis of NSCLC between the years 1995 and 2018 and with EGFR ex20ins mutations. Data were extracted on patient demographics, tumor characteristics, treatments, and outcomes, and compared using chi-square and analysis of variance. Kaplan-Meier curves were generated to compare overall survival with log-rank tests. All analyses were performed using Python 3.6 (Python Software Foundation). A total of 357 patients were eligible. Patient characteristics include a median age of 68 years comprising female sex of 54%, White race of 63%, and Black race of 9%. Approximately 62% of total patients had stage 4 disease, and 30% of all patients had brain metastasis. There were 54% of patients who were treated with chemotherapy and 15% with immune checkpoint inhibitors (ICIs). In patients with brain metastasis, 16% were treated with ICI, 18% with targeted therapy, and 59% with chemotherapy. The median survival of the entire group was 23.8 months. Among patients with stage 4 disease (n = 222): 51% were women, 64% were white, 37% had brain metastasis, 18% were treated with ICI, 14% had targeted therapy, and 60% were treated with chemotherapy. Stage 4 patients treated with targeted therapy had better survival compared with those who did not receive targeted therapy (20.6 versus 16.1 mo,  EGFR ex20ins mutation represents a unique subset of NSCLC; it is associated with a higher propensity for brain metastases and a relatively modest overall survival. Novel treatment approaches are urgently needed to improve patient outcomes.
+38827378	54	62	Patients	Species	9606
+38827378	81	85	EGFR	Gene	1956
+38827378	242	246	EGFR	Gene	1956
+38827378	318	322	EGFR	Gene	1956
+38827378	357	365	Patients	Species	9606
+38827378	415	419	EGFR	Gene	1956
+38827378	420	435	tyrosine kinase	Gene	7294
+38827378	555	563	patients	Species	9606
+38827378	681	689	patients	Species	9606
+38827378	763	767	EGFR	Gene	1956
+38827378	810	817	patient	Species	9606
+38827378	1120	1128	patients	Species	9606
+38827378	1144	1151	Patient	Species	9606
+38827378	1299	1307	patients	Species	9606
+38827378	1344	1352	patients	Species	9606
+38827378	1393	1401	patients	Species	9606
+38827378	1490	1498	patients	Species	9606
+38827378	1666	1674	patients	Species	9606
+38827378	1716	1721	women	Species	9606
+38827378	1866	1874	patients	Species	9606
+38827378	2085	2093	patients	Species	9606
+38827378	2135	2139	EGFR	Gene	1956
+38827378	2357	2364	patient	Species	9606

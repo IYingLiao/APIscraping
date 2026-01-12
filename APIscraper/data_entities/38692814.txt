@@ -1,0 +1,6 @@
+38692814|t|Applications of Artificial Intelligence in Lung Pathology.
+38692814|a|Artificial intelligence/machine learning tools are being created for use in pathology. Some examples related to lung pathology include acid-fast stain evaluation, programmed death ligand-1 (PDL-1) interpretation, evaluating histologic patterns of non-small-cell lung carcinoma, evaluating histologic features in mesothelioma associated with adverse outcomes, predicting response to anti-PDL-1 therapy from hematoxylin and eosin-stained slides, evaluation of tumor microenvironment, evaluating patterns of interstitial lung disease, nondestructive methods for tissue evaluation, and others. There are still some frameworks (regulatory, workflow, and payment) that need to be established for these tools to be integrated into pathology.
+38692814	222	247	programmed death ligand-1	Gene	29126
+38692814	249	254	PDL-1	Gene	29126
+38692814	446	451	PDL-1	Gene	29126
+38692814	481	486	eosin	Chemical	MESH:D004801

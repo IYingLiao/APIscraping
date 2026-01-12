@@ -1,0 +1,29 @@
+38618245|t|27-Hydroxycholesterol/liver X receptor/apolipoprotein E mediates zearalenone-induced intestinal immunosuppression: A key target potentially linking zearalenone and cancer.
+38618245|a|Zearalenone (ZEN) is a mycotoxin that extensively contaminates food and feed, posing a significant threat to public health. However, the mechanisms behind ZEN-induced intestinal immunotoxicity remain unclear. In this study, Sprague-Dawley (SD) rats were exposed to ZEN at a dosage of 5 mg/kg/day b.w. for a duration of 14 days. The results demonstrated that ZEN exposure led to notable pathological alterations and immunosuppression within the intestine. Furthermore, ZEN exposure caused a significant reduction in the levels of apolipoprotein E (ApoE) and liver X receptor (LXR) (
+38618245	0	21	27-Hydroxycholesterol	Chemical	MESH:C076996
+38618245	39	55	apolipoprotein E	Gene	25728
+38618245	65	76	zearalenone	Chemical	MESH:D015025
+38618245	148	159	zearalenone	Chemical	MESH:D015025
+38618245	164	170	cancer	Disease	MESH:D009369
+38618245	172	183	Zearalenone	Chemical	MESH:D015025
+38618245	185	188	ZEN	Chemical	MESH:D015025
+38618245	327	330	ZEN	Chemical	MESH:D015025
+38618245	416	420	rats	Species	10116
+38618245	437	440	ZEN	Chemical	MESH:D015025
+38618245	530	533	ZEN	Chemical	MESH:D015025
+38618245	640	643	ZEN	Chemical	MESH:D015025
+38618245	701	717	apolipoprotein E	Gene	25728
+38618245	719	723	ApoE	Gene	25728
+38618245	895	916	27-hydroxycholesterol	Chemical	MESH:C076996
+38618245	918	923	27-HC	Chemical	MESH:C076996
+38618245	975	979	ApoE	Gene	25728
+38618245	1059	1062	ZEN	Chemical	MESH:D015025
+38618245	1143	1147	ApoE	Gene	25728
+38618245	1184	1220	colorectal, breast, and lung cancers	Disease	MESH:D001943
+38618245	1272	1277	27-HC	Chemical	MESH:C076996
+38618245	1282	1286	ApoE	Gene	25728
+38618245	1306	1309	ZEN	Chemical	MESH:D015025
+38618245	1402	1405	rat	Species	10116
+38618245	1426	1430	ApoE	Gene	25728
+38618245	1470	1473	ZEN	Chemical	MESH:D015025
+38618245	1486	1492	cancer	Disease	MESH:D009369

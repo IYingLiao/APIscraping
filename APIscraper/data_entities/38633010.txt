@@ -1,0 +1,34 @@
+38633010|t|The Effect of Vaccination with Pfizer-BioNTech or CoronaVac on Disease Prognosis Among Hospitalized COVID-19 Patients.
+38633010|a|The Turkish Ministry of Health offered two types of vaccines by January 13, 2021, which are CoronaVac (Sinovac Biotech, China) and Pfizer-BioNTech. We aimed to describe the impact of the CoronaVac and Pfizer-BioNTech vaccines on clinical outcomes among hospitalized patients during a six-month period. We included patients older than 18 years old and hospitalized because of COVID-19 when the vaccines were available. We conducted the study at Koç University Hospital and American Hospital between June 2021, six months after the vaccination started, and December 2021. In total, 444 RT-PCR confirmed hospitalized patients were included. The mean age of the patients was 59 (standard deviation [SD]=18), and 42.8% were female. The most common comorbidity was hypertension (39%), followed by diabetes mellitus (27%), cardiovascular diseases (18.4%), chronic lung diseases (14.6%), cancer (9.2%), and chronic renal diseases (8%). In multivariate analysis, no vaccination (OR=4.7, CI=2.25-10.06;  Among the inpatients with COVID-19, the predictors for mortality were being unvaccinated, older age, cancer, chronic kidney disease, and cardiovascular diseases. Among the vaccinated inpatients, having two doses of the Pfizer-BioNTech vaccine was the only effective protective measure against mortality, and two doses of the CoronaVac vaccine had no significant effect in preventing fatality.
+38633010	38	46	BioNTech	Chemical	-
+38633010	100	108	COVID-19	Disease	MESH:D000086382
+38633010	109	117	Patients	Species	9606
+38633010	268	276	BioNTech	Chemical	-
+38633010	338	346	BioNTech	Chemical	-
+38633010	396	404	patients	Species	9606
+38633010	453	461	patients	Species	9606
+38633010	514	522	COVID-19	Disease	MESH:D000086382
+38633010	762	770	patients	Species	9606
+38633010	806	814	patients	Species	9606
+38633010	907	919	hypertension	Disease	MESH:D006973
+38633010	939	956	diabetes mellitus	Disease	MESH:D003920
+38633010	964	987	cardiovascular diseases	Disease	MESH:D002318
+38633010	1005	1018	lung diseases	Disease	MESH:D008171
+38633010	1028	1034	cancer	Disease	MESH:D009369
+38633010	1047	1069	chronic renal diseases	Disease	MESH:D051436
+38633010	1193	1199	cancer	Disease	MESH:D009369
+38633010	1238	1260	chronic kidney disease	Disease	MESH:D051436
+38633010	1330	1338	COVID-19	Disease	MESH:D000086382
+38633010	1339	1347	patients	Species	9606
+38633010	1369	1377	patients	Species	9606
+38633010	1440	1448	patients	Species	9606
+38633010	1556	1564	patients	Species	9606
+38633010	1642	1650	patients	Species	9606
+38633010	1684	1692	BioNTech	Chemical	-
+38633010	1730	1740	inpatients	Species	9606
+38633010	1746	1754	COVID-19	Disease	MESH:D000086382
+38633010	1821	1827	cancer	Disease	MESH:D009369
+38633010	1829	1851	chronic kidney disease	Disease	MESH:D051436
+38633010	1857	1880	cardiovascular diseases	Disease	MESH:D002318
+38633010	1903	1913	inpatients	Species	9606
+38633010	1946	1954	BioNTech	Chemical	-

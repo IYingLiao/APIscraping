@@ -1,0 +1,19 @@
+38590680|t|Synthesis of Bio-Active Silver Nanoparticles against Human Lung Cancer Cell Line (A549) with Little Toxicity to Normal Cell Line (WRL68).
+38590680|a|Nanomaterials are characterized by mechanical, thermal, chemical, biological, and other properties that are different from the basic materials that make them up due to their large surface area to size ratio and quantum effect. There are multiple ways to produce nanomaterials mechanically, chemically, and physically, but they are not safe for the environment. Researchers have sought to find safe methods for the production of nanomaterials, such as green manufacturing, that is, manufacturing nanomaterials from plants. Moreover, there are other sources, such as bacteria or fungi that are used in the production of nanomaterials. This study aimed to try to find an alternative to chemically manufactured drugs, such as those used in the treatment of human cancers, through nanotechnology and from plant sources (green-biosynthesis), which is characterized by abundance and low economic cost. Silver nanoparticles were green-synthesized using an aqueous extract of the licorice plant, their properties were diagnosed, and their differences with the crude aqueous extract were determined. The sizes of nanoparticles were within the range of 60.27-89.80 nm, while the sizes of the crude aqueous extract particles were within the range of 53.96-113.1 nm. Atomic force microscopy was used to find out the shapes, topography, roughness, and protrusions of the surfaces of biosynthesized AgNPs and aqueous extract particles, where the roughness rate of the nanoparticles was 75.54 nm, while it appeared.
+38590680	24	44	Silver Nanoparticles	Chemical	-
+38590680	53	58	Human	Species	9606
+38590680	59	70	Lung Cancer	Disease	MESH:D008175
+38590680	82	86	A549	CellLine	CVCL:0023
+38590680	100	108	Toxicity	Disease	MESH:D064420
+38590680	130	135	WRL68	CellLine	CVCL:0581
+38590680	891	896	human	Species	9606
+38590680	897	904	cancers	Disease	MESH:D009369
+38590680	1033	1053	Silver nanoparticles	Chemical	-
+38590680	1522	1527	AgNPs	Chemical	-
+38590680	1655	1660	AgNPs	Chemical	-
+38590680	1682	1693	lung cancer	Disease	MESH:D008175
+38590680	1715	1719	A549	CellLine	CVCL:0023
+38590680	1936	1944	toxicity	Disease	MESH:D064420
+38590680	1948	1953	AgNPs	Chemical	-
+38590680	1985	1990	WRL68	CellLine	CVCL:0581
+38590680	2161	2169	toxicity	Disease	MESH:D064420

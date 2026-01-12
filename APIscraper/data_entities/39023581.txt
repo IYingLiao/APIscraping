@@ -1,0 +1,19 @@
+39023581|t|Expression and analysis of CX3CL1 chemokine and CD57+ lymphocytes in oral squamous cell carcinoma and their correlation with clinicopathologic features.
+39023581|a|CX3CL1 exhibits chemoattraction for T-cells, monocytes, and CD57+ natural killer cells mediating antitumor immunity. The role of CX3CL1 has been studied in tumors of the breast, lung, colon, pancreas, prostate, etc. The current study was undertaken to understand the importance of CX3CL1 and its correlation with CD57+ cells in oral squamous cell carcinoma (OSCC). Seventy-five primary OSCC were staged and histopathologically graded, followed by immunohistochemistry for CX3CL1 and CD57. Mann-Whitney U-test, Kruskal-Wallis test, Post hoc Bonferroni test, and Pearson's correlation coefficient were applied. CX3CL1 assessment within the tumor cells was high in 62.66% of cases, and the CD57 Labeling Index (LI) varied over a wide range of 8.2-111.6. A statistically significant reduction in expression of both CX3CL1 and CD57 was observed with an increase in histologic grade (p = 0.021 and 0.038, respectively). It is concluded that CX3CL1 and CD57 may be important players in the immune surveillance of OSCC. Further studies with detailed follow-up for the overall survival of patients will help in studying the diagnostic, prognostic, and therapeutic roles of CX3CL1 in OSCC.
+39023581	27	33	CX3CL1	Gene	6376
+39023581	48	52	CD57	Gene	27087
+39023581	167	173	CX3CL1	Gene	6376
+39023581	227	231	CD57	Gene	27087
+39023581	296	302	CX3CL1	Gene	6376
+39023581	448	454	CX3CL1	Gene	6376
+39023581	480	484	CD57	Gene	27087
+39023581	661	667	CX3CL1	Gene	6376
+39023581	672	676	CD57	Gene	27087
+39023581	807	813	CX3CL1	Gene	6376
+39023581	885	889	CD57	Gene	27087
+39023581	1009	1015	CX3CL1	Gene	6376
+39023581	1020	1024	CD57	Gene	27087
+39023581	1145	1151	CX3CL1	Gene	6376
+39023581	1156	1160	CD57	Gene	27087
+39023581	1290	1298	patients	Species	9606
+39023581	1374	1380	CX3CL1	Gene	6376

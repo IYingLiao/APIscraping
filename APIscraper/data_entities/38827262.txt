@@ -1,0 +1,11 @@
+38827262|t|Pembrolizumab-induced Stevens-Johnson syndrome/Toxic Epidermal Necrolysis in a Vietnamese patient with nonsmall-cell lung cancer.
+38827262|a|Chemoimmunotherapy is an effective therapy for an individual with nonsmall-cell lung cancer (NSCLC) without anaplastic lymphoma kinase or epidermal growth factor receptor mutations. However, it can also be related to adverse cutaneous reactions such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) with high morbidities and mortality rates. We present a case of a 65-year-old male with NSCLC who underwent first-line chemotherapy with paclitaxel, carboplatin, and pembrolizumab, which was later followed by a second cycle of the same therapies. The patient developed a fever and rash 12 days after the second cycle. Pembrolizumab was strongly suspected as the culprit medication because cutaneous reactions to this drug have been frequently reported and threw other medications used as less likely candidates. This is the first case reported in Vietnam of SJS/TEN related to pembrolizumab and contributes to our knowledge of severe skin reactions associated with immune checkpoint inhibitors.
+38827262	0	13	Pembrolizumab	Chemical	MESH:C582435
+38827262	90	97	patient	Species	9606
+38827262	268	300	epidermal growth factor receptor	Gene	1956
+38827262	588	598	paclitaxel	Chemical	MESH:D017239
+38827262	600	611	carboplatin	Chemical	MESH:D016190
+38827262	617	630	pembrolizumab	Chemical	MESH:C582435
+38827262	702	709	patient	Species	9606
+38827262	769	782	Pembrolizumab	Chemical	MESH:C582435
+38827262	1028	1041	pembrolizumab	Chemical	MESH:C582435

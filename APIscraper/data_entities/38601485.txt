@@ -1,0 +1,29 @@
+38601485|t|Efficacy and safety of utidelone for the treatment of patients with locally advanced or metastatic non-small-cell lung cancer who have failed standard second-line treatment: A phase 2 clinical trial (BG01-1801).
+38601485|a|Chemotherapy remains the standard-of-care for many patients with locally advanced or metastatic non-small-cell lung cancer (NSCLC), but acquired resistance presents challenges. The aim of this open-label, multicenter phase 2 clinical trial was to determine the efficacy and safety of utidelone, a novel genetically engineered epothilone analog and microtubule-stabilizing agent, as a third- or later-line treatment for locally advanced or metastatic NSCLC. Patients who had failed standard second-line treatment (including platinum-containing chemotherapy or targeted therapy) received utidelone (40 mg/m From March 12, 2019 to January 18, 2021, 26 pretreated patients with locally advanced or metastatic NSCLC (100% of patients had received prior platinum and 65.4% patients had received prior taxane treatment) were enrolled (80.8% of patients had adenocarcinoma). At baseline, nine (34.6%) patients had received second-line treatment, 10 (38.5%) patients had received third-line treatment, and seven (26.9%) patients had received fourth- or later-line treatment. By the data cut-off date of August 10, 2021, the median follow-up was 7.49 months (range, 1.4-26.7 months). The ORR was 15.4% (95% confidence interval [CI], 4.4%-34.9%) in the intention-to-treat (ITT) cohort ( In this clinical trial, utidelone showed promising efficacy and had a manageable safety profile. Further clinical studies are warranted to confirm its role in NSCLC treatment. No.NCT03693547; https://classic.clinicaltrials.gov.
+38601485	23	32	utidelone	Chemical	-
+38601485	54	62	patients	Species	9606
+38601485	99	125	non-small-cell lung cancer	Disease	MESH:D002289
+38601485	275	283	patients	Species	9606
+38601485	320	346	non-small-cell lung cancer	Disease	MESH:D002289
+38601485	348	353	NSCLC	Disease	MESH:D002289
+38601485	508	517	utidelone	Chemical	-
+38601485	550	560	epothilone	Chemical	MESH:D034261
+38601485	674	679	NSCLC	Disease	MESH:D002289
+38601485	690	698	Patients	Species	9606
+38601485	756	764	platinum	Chemical	MESH:D010984
+38601485	819	828	utidelone	Chemical	-
+38601485	1145	1153	patients	Species	9606
+38601485	1190	1195	NSCLC	Disease	MESH:D002289
+38601485	1205	1213	patients	Species	9606
+38601485	1233	1241	platinum	Chemical	MESH:D010984
+38601485	1252	1260	patients	Species	9606
+38601485	1280	1286	taxane	Chemical	MESH:C080625
+38601485	1322	1330	patients	Species	9606
+38601485	1335	1349	adenocarcinoma	Disease	MESH:D000230
+38601485	1378	1386	patients	Species	9606
+38601485	1434	1442	patients	Species	9606
+38601485	1496	1504	patients	Species	9606
+38601485	2334	2342	patients	Species	9606
+38601485	2368	2389	peripheral neuropathy	Disease	MESH:D010523
+38601485	2495	2504	utidelone	Chemical	-
+38601485	2630	2635	NSCLC	Disease	MESH:D002289

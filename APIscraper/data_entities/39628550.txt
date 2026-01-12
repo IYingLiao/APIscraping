@@ -1,0 +1,20 @@
+39628550|t|Protocol for a cluster randomised controlled trial to evaluate effectiveness of a self-help group intervention to encourage smoke-free homes in slums of Kochi(Kochi Intervention for tobacco smoke free homes-KIFT).
+39628550|a|Exposure to second hand smoke (SHS) is a cause for heart disease and lung cancer among non- smokers. This cluster randomized control trial will evaluate the effectiveness of a tobacco smoke free home intervention in reducing exposure to second hand smoke. The intervention will be conducted among 30 clusters in urban and peri-urban areas of Kochi, India. The sample size is 300 per arm and 15 clusters to detect a minimal difference of 0.03ng/ml in cotinine levels between groups, at 80% power with a two-sided alfa of 0.05 considering variable cluster size. A baseline survey will be undertaken to identify smokers. Data related to smoking, indoor smoking, nicotine dependence, blood pressure (BP) of smokers, morbidity experienced, and lung volume Fev1/Fev6 of smokers will be measured. Urine cotinine, morbidity, BP of spouse and child will be assessed. Air quality monitors measuring PM2.5 will be placed in homes. Trained self-help group women and frontline health workers will implement the intervention. The intervention will consist of monthly home visits to educate the smoker on the harms of second-hand smoke using 3 A's. The circle of influencers around the smoking men will also be contacted by the members of self-help group to provide support to stop smoking within homes and to quit. They will then organize two-three meetings of community leaders and heads of women's groups, present data on harms of SHS, and explain the rationale for establishing smoke free homes in their community for a duration of six months. After the intervention a post assessment will be conducted and this will be repeated after six months. The trial protocol was approved by the Institutional Ethical Committee of Amrita Institute of Medical Sciences. Results will be submitted to open access peer reviewed journals and shared with other stakeholders. CTRI/2021/06/034478.
+39628550	182	189	tobacco	Species	4097
+39628550	245	255	hand smoke	Chemical	-
+39628550	277	290	heart disease	Disease	MESH:D006331
+39628550	295	306	lung cancer	Disease	MESH:D008175
+39628550	402	409	tobacco	Species	4097
+39628550	470	480	hand smoke	Chemical	-
+39628550	686	694	cotinine	Chemical	MESH:D003367
+39628550	870	877	smoking	Disease	MESH:D015208
+39628550	886	893	smoking	Disease	MESH:D015208
+39628550	895	903	nicotine	Disease	MESH:D014029
+39628550	1032	1040	cotinine	Chemical	MESH:D003367
+39628550	1125	1130	PM2.5	Chemical	-
+39628550	1180	1185	women	Species	9606
+39628550	1346	1356	hand smoke	Chemical	-
+39628550	1407	1414	smoking	Disease	MESH:D015208
+39628550	1415	1418	men	Species	9606
+39628550	1503	1510	smoking	Disease	MESH:D015208
+39628550	1614	1619	women	Species	9606

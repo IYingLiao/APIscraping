@@ -1,0 +1,6 @@
+38682324|t|Digital health in geriatric oncology: A Young International Society of Geriatric Oncology review.
+38682324|a|The integration of digital health technologies in geriatric oncology has the potential to enhance patient care and self-management. This review article discusses the applications of these technologies, including teleassessment, telemonitoring, and teleintervention, within geriatric oncology, and evaluates their potential to improve cancer care and patient outcomes. We also review challenges to the implementation of digital health technologies among populations of older patients with cancer. The article provides a perspective for clinicians, researchers, policymakers, and patients on the integration and utilisation of digital health technologies in current geriatric oncology practice.
+38682324	196	203	patient	Species	9606
+38682324	448	455	patient	Species	9606
+38682324	572	580	patients	Species	9606
+38682324	676	684	patients	Species	9606

@@ -1,0 +1,4 @@
+39036661|t|Chinese expert consensus on the diagnosis and treatment of bone metastasis in lung cancer (2022 edition).
+39036661|a|Lung cancer is the leading cause of cancer-related deaths worldwide. Bone is a common metastatic site of lung cancer, about 50% of bone metastatic patients will experience skeletal related events (SREs). SREs not only seriously impact the quality of life of patients, but also shorten their survival time. The treatment of bone metastasis requires multi-disciplinary therapy (MDT) and development of individualized treatment plan. In order to standardize the diagnosis and treatment of bone metastasis in lung cancer, the expert group of the MDT Committee of the Chinese Medical Doctor Association has developed the expert consensus on the diagnosis and treatment of lung cancer bone metastasis.
+39036661	253	261	patients	Species	9606
+39036661	364	372	patients	Species	9606

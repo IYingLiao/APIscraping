@@ -1,0 +1,39 @@
+39492110|t|BTLA and HVEM: Emerging players in the tumor microenvironment and cancer progression.
+39492110|a|Immunotherapy has emerged as a revolutionary cancer treatment, particularly with the introduction of immune checkpoint inhibitors (ICIs). ICIs target specific proteins that restrain the immune system from attacking cancer cells. Prominent examples of checkpoint proteins that ICIs block include PD-1, PD-L1, and CTLA-4. The success of PD-1/L1 and CTLA-4 blockade has prompted further research on other inhibitory mechanisms that could aid in the treatment of cancer. One such mechanism is the BTLA/HVEM checkpoint, which regulates immune responses in a similar manner to CTLA-4 and PD-1. BTLA, a member of the Ig superfamily, binds to HVEM, a member of the TNF receptor superfamily. While BTLA is essential for maintaining immunological self-tolerance and preventing autoimmune diseases, overexpression of BTLA and HVEM has been observed in various malignancies such as lung, ovarian, glioblastoma, gastric cancer, and non-Hodgkin's lymphoma. The function of the BTLA/HVEM checkpoint in various malignancies has been extensively studied, revealing its significant role in immunotherapy for cancer. This review study aims to explain the BTLA/HVEM checkpoint and its functions in different types of cancers. In conclusion, the development of new immunotherapies such as ICIs has revolutionized cancer treatment. The discovery of the BTLA/HVEM checkpoint and its role in various malignancies provides opportunities for advancing cancer treatment through immunotherapy.
+39492110	0	4	BTLA	Gene	151888
+39492110	9	13	HVEM	Gene	8764
+39492110	39	44	tumor	Disease	MESH:D009369
+39492110	66	72	cancer	Disease	MESH:D009369
+39492110	131	137	cancer	Disease	MESH:D009369
+39492110	301	307	cancer	Disease	MESH:D009369
+39492110	381	385	PD-1	Gene	5133
+39492110	387	392	PD-L1	Gene	29126
+39492110	398	404	CTLA-4	Gene	1493
+39492110	433	439	CTLA-4	Gene	1493
+39492110	545	551	cancer	Disease	MESH:D009369
+39492110	579	583	BTLA	Gene	151888
+39492110	584	588	HVEM	Gene	8764
+39492110	657	663	CTLA-4	Gene	1493
+39492110	668	672	PD-1	Gene	5133
+39492110	674	678	BTLA	Gene	151888
+39492110	721	725	HVEM	Gene	8764
+39492110	775	779	BTLA	Gene	151888
+39492110	853	872	autoimmune diseases	Disease	MESH:D001327
+39492110	892	896	BTLA	Gene	151888
+39492110	901	905	HVEM	Gene	8764
+39492110	935	947	malignancies	Disease	MESH:D009369
+39492110	956	983	lung, ovarian, glioblastoma	Disease	MESH:D010049
+39492110	985	999	gastric cancer	Disease	MESH:D013274
+39492110	1005	1027	non-Hodgkin's lymphoma	Disease	MESH:D008228
+39492110	1049	1053	BTLA	Gene	151888
+39492110	1054	1058	HVEM	Gene	8764
+39492110	1081	1093	malignancies	Disease	MESH:D009369
+39492110	1176	1182	cancer	Disease	MESH:D009369
+39492110	1222	1226	BTLA	Gene	151888
+39492110	1227	1231	HVEM	Gene	8764
+39492110	1283	1290	cancers	Disease	MESH:D009369
+39492110	1378	1384	cancer	Disease	MESH:D009369
+39492110	1417	1421	BTLA	Gene	151888
+39492110	1422	1426	HVEM	Gene	8764
+39492110	1462	1474	malignancies	Disease	MESH:D009369
+39492110	1512	1518	cancer	Disease	MESH:D009369

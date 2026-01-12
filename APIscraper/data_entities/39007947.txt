@@ -1,0 +1,11 @@
+39007947|t|Gut bacteria at 6 months of age are associated with immune cell status in 1-year-old children.
+39007947|a|Age-related gut bacterial changes during infancy have been widely studied, but it remains still unknown how these changes are associated with immune cell composition. This study's aim was to explore if the temporal development of gut bacteria during infancy prospectively affects immune cell composition. Faecal bacteria and short-chain fatty acids were analysed from 67 PreventADALL study participants at four timepoints (birth to 12 months) using reduced metagenome sequencing and gas chromatography. Immune cell frequencies were assessed using mass cytometry in whole blood samples at 12 months. The infants clustered into four groups based on immune cell composition: clusters 1 and 2 showed a high relative abundance of naïve cells, cluster 3 exhibited increased abundance of classical- and non-classical monocytes and clusters 3 and 4 had elevated neutrophil levels. At all age groups, we did observe significant associations between the gut microbiota and immune cell clusters; however, these were generally from low abundant species. Only at 6 months of age we observed significant associations between abundant (>8%) species and immune cell clusters. Bifidobacterium adolescentis and Porphyromonadaceae are associated with cluster 1, while Bacteroides fragilis and Bifidobacterium longum are associated with clusters 3 and 4 respectively. These species have been linked to T-cell polarization and maturation. No significant correlations were found between short-chain fatty acids and immune cell composition. Our findings suggest that abundant gut bacteria at 6 months may influence immune cell frequencies at 12 months, highlighting the potential role of gut microbiota in shaping later immune cell composition.
+39007947	4	12	bacteria	Species	629395
+39007947	329	337	bacteria	Species	629395
+39007947	407	415	bacteria	Species	629395
+39007947	420	443	short-chain fatty acids	Chemical	MESH:D005232
+39007947	1255	1283	Bifidobacterium adolescentis	Species	1680
+39007947	1344	1364	Bacteroides fragilis	Species	817
+39007947	1369	1391	Bifidobacterium longum	Species	216816
+39007947	1560	1583	short-chain fatty acids	Chemical	MESH:D005232
+39007947	1652	1660	bacteria	Species	629395

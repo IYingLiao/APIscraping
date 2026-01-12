@@ -1,0 +1,12 @@
+38938329|t|Outcomes and Discriminatory Accuracy of the CHA
+38938329|a|Atrial fibrillation (AF) is highly prevalent among cancer patients. The role of traditional risk stratification scores in the context of different cancer types in these patients remains unknown. The purpose of this study was to determine the discriminative accuracy of the CHA The National Readmission Database (2015-2019) was used to identify all AF patients stratified by the cancer diagnosis, type, and CHA A total of 6,996,088 AF patients were identified at index admission. Of these, 4,242,630 (642,237 cancer, 3,600,393 noncancer) were readmitted at 30 days. Cancer patients (92.1%) had a higher proportion of high CHA Cancer patients with AF are at a higher risk of readmission and major bleeding. The risk of ischemic stroke during readmission appears to be lower than noncancer patients. These findings may have implications for anticoagulant therapy in cancer patients.
+38938329	167	175	patients	Species	9606
+38938329	278	286	patients	Species	9606
+38938329	581	589	patients	Species	9606
+38938329	906	914	patients	Species	9606
+38938329	1044	1052	patients	Species	9606
+38938329	1245	1253	patients	Species	9606
+38938329	1936	1944	patients	Species	9606
+38938329	1966	1974	patients	Species	9606
+38938329	2121	2129	patients	Species	9606
+38938329	2204	2212	patients	Species	9606

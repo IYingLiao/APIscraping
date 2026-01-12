@@ -1,0 +1,3 @@
+39023625|t|Pneumothorax as a rare presentation in a case of phyllodes tumor of breast with cavitating lung metastasis.
+39023625|a|The lung is the most common site of metastases in the case of phyllodes tumor of the breast followed by bone. However, pneumothorax as a presenting complaint in a patient of bilateral cavitating lung metastases from malignant phyllodes tumor of the breast has never been reported to our knowledge. We herein report a case of a 34-year-old female presenting with sudden onset of chest pain in already existing lung metastases who on imaging showed the development of bilateral pneumothorax. We should, therefore, be on the lookout for the potential development of spontaneous pneumothorax in such cases.
+39023625	281	288	patient	Species	9606

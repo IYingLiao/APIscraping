@@ -1,0 +1,16 @@
+39516990|t|Internal carotid bulb occlusion by a giant thrombus after thoracoscopic left upper lung lobectomy successfully treated with endovascular stenting: a case report.
+39516990|a|Perioperative acute ischemic stroke following lung resection is relatively rare, though a devastating complication. Specifically, patients undergoing left upper lung lobectomy for lung cancer are likely to develop perioperative acute ischemic stroke. A 67-year-old man underwent thoracoscopic left upper lung lobectomy for lung adenocarcinoma; he experienced sudden-onset left hemiparesis and dysarthria on the morning of the second postoperative day. Angiography revealed occlusion of the bulbs of the right internal and external carotid arteries by a giant thrombus, which could not be removed through endovascular thrombectomy. We deployed a stent at the right carotid bifurcation to foist the giant thrombus, achieving revascularization 4 h after the onset. Treatment response was assessed as good improvement with a modified Rankin scale score of 0, and the patient was discharged home 19 days after symptom onset. We present a unique case of carotid bulb thromboembolism resulting from a giant thrombus following thoracoscopic left upper lung lobectomy, for which endovascular stenting was effective.
+39516990	9	31	carotid bulb occlusion	Disease	MESH:D016893
+39516990	43	51	thrombus	Disease	MESH:D013927
+39516990	194	209	ischemic stroke	Disease	MESH:D002544
+39516990	304	312	patients	Species	9606
+39516990	354	365	lung cancer	Disease	MESH:D008175
+39516990	408	423	ischemic stroke	Disease	MESH:D002544
+39516990	516	535	lung adenocarcinoma	Disease	MESH:D000077192
+39516990	570	581	hemiparesis	Disease	MESH:D010291
+39516990	586	596	dysarthria	Disease	MESH:D004401
+39516990	752	760	thrombus	Disease	MESH:D013927
+39516990	896	904	thrombus	Disease	MESH:D013927
+39516990	1056	1063	patient	Species	9606
+39516990	1154	1182	carotid bulb thromboembolism	Disease	MESH:D013923
+39516990	1206	1214	thrombus	Disease	MESH:D013927

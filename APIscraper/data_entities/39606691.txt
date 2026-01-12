@@ -1,0 +1,49 @@
+39606691|t|Outbreaks of COVID-19 in a tuberculosis treatment sanatorium on the Thailand-Myanmar border: a retrospective cohort analysis.
+39606691|a|Tuberculosis (TB) is a chronic condition, with overlapping symptoms to those of coronavirus disease 2019 (COVID-19). There has been inconsistent evidence on whether TB is a predisposing factor for developing severe COVID-19. The aim of this report is to explore whether TB influences the severity of COVID-19. COVID-19 cases at two TB sanatoria on the Thailand-Myanmar border were reviewed. Demographic, clinical and laboratory data including TB treatment and co-morbidities, were analyzed. Characteristics and COVID-19 clinical outcomes were compared between two groups of patients: TB and those without TB (the caretakers and the medical personnel). Multivariable ordered logistic regression was conducted to compare the risk of severe COVID-19 between the two groups. Between September 2021 and March 2022, 161 COVID-19 cases were diagnosed. Over half of the COVID-19 patients were infected with TB (n= 104, 64.6%), and the rest were not (n=57, 35.4%). The median (interquartile range) age was 48 (33.5-57.0) and 27 (23-33) years in the TB and in the non-TB COVID-19 patients, respectively. Before COVID-19 infection, 67.1% (106/158) of patients had received at least one dose of COVID-19 vaccine. The median cycle threshold value at diagnosis was not different between TB (18.5, IQR 16.1-32.3) and non-TB patients (18.8, 15.1-30.0). Fever, gastrointestinal symptoms and ageusia were more common in non-TB patients. Six patients (3.8%, 6/156) all from the TB group became severe of which five (3.2%, 5/156) required oxygen therapy. One TB patient died (1/104, 0.96%) of lung cancer. After adjustment for potential confounders, the final clinical severity was not different between the two groups (adjusted odds ratio 1.40, 95% confidence interval 0.16-12.39). TB was not associated with severe outcomes in the two TB sanatoria. The high uptake of COVID-19 vaccination and active screening could have impacted on disease progression and prevented unfavorable outcomes.
+39606691	13	21	COVID-19	Disease	MESH:D000086382
+39606691	27	39	tuberculosis	Disease	MESH:D014376
+39606691	138	150	Tuberculosis	Disease	MESH:D014376
+39606691	152	154	TB	Disease	MESH:D014376
+39606691	218	242	coronavirus disease 2019	Disease	MESH:D000086382
+39606691	244	252	COVID-19	Disease	MESH:D000086382
+39606691	303	305	TB	Disease	MESH:D014376
+39606691	353	361	COVID-19	Disease	MESH:D000086382
+39606691	408	410	TB	Disease	MESH:D014376
+39606691	438	446	COVID-19	Disease	MESH:D000086382
+39606691	457	465	COVID-19	Disease	MESH:D000086382
+39606691	479	481	TB	Disease	MESH:D014376
+39606691	590	592	TB	Disease	MESH:D014376
+39606691	658	666	COVID-19	Disease	MESH:D000086382
+39606691	721	729	patients	Species	9606
+39606691	731	733	TB	Disease	MESH:D014376
+39606691	752	754	TB	Disease	MESH:D014376
+39606691	885	893	COVID-19	Disease	MESH:D000086382
+39606691	970	978	COVID-19	Disease	MESH:D000086382
+39606691	1018	1026	COVID-19	Disease	MESH:D000086382
+39606691	1027	1035	patients	Species	9606
+39606691	1041	1049	infected	Disease	MESH:D007239
+39606691	1055	1057	TB	Disease	MESH:D014376
+39606691	1196	1198	TB	Disease	MESH:D014376
+39606691	1214	1216	TB	Disease	MESH:D014376
+39606691	1217	1225	COVID-19	Disease	MESH:D000086382
+39606691	1226	1234	patients	Species	9606
+39606691	1257	1275	COVID-19 infection	Disease	MESH:D000086382
+39606691	1296	1304	patients	Species	9606
+39606691	1339	1347	COVID-19	Disease	MESH:D000086382
+39606691	1429	1431	TB	Disease	MESH:D014376
+39606691	1462	1464	TB	Disease	MESH:D014376
+39606691	1465	1473	patients	Species	9606
+39606691	1493	1498	Fever	Disease	MESH:D005334
+39606691	1500	1525	gastrointestinal symptoms	Disease	MESH:D012817
+39606691	1530	1537	ageusia	Disease	MESH:D000370
+39606691	1562	1564	TB	Disease	MESH:D014376
+39606691	1565	1573	patients	Species	9606
+39606691	1579	1587	patients	Species	9606
+39606691	1615	1617	TB	Disease	MESH:D014376
+39606691	1675	1681	oxygen	Chemical	MESH:D010100
+39606691	1695	1697	TB	Disease	MESH:D014376
+39606691	1698	1705	patient	Species	9606
+39606691	1729	1740	lung cancer	Disease	MESH:D008175
+39606691	1932	1934	TB	Disease	MESH:D014376
+39606691	1986	1988	TB	Disease	MESH:D014376
+39606691	2019	2027	COVID-19	Disease	MESH:D000086382

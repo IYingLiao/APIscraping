@@ -1,0 +1,15 @@
+39435907|t|Socioeconomic Status, Smoking, and Lung Cancer: Mediation and Bias Analysis in the SYNERGY Study.
+39435907|a|Increased lung cancer risks for low socioeconomic status (SES) groups are only partially attributable to smoking habits. Little effort has been made to investigate the persistent risks related to low SES by quantification of potential biases. Based on 12 case-control studies, including 18 centers of the international SYNERGY project (16,550 cases, 20,147 controls), we estimated controlled direct effects (CDE) of SES on lung cancer via multiple logistic regression, adjusted for age, study center, and smoking habits and stratified by sex. We conducted mediation analysis by inverse odds ratio weighting to estimate natural direct effects and natural indirect effects via smoking habits. We considered misclassification of smoking status, selection bias, and unmeasured mediator-outcome confounding by genetic risk, both separately and by multiple quantitative bias analyses, using bootstrap to create 95% simulation intervals (SI). Mediation analysis of lung cancer risks for SES estimated mean proportions of 43% in men and 33% in women attributable to smoking. Bias analyses decreased the direct effects of SES on lung cancer, with selection bias showing the strongest reduction in lung cancer risk in the multiple bias analysis. Lung cancer risks remained increased for lower SES groups, with higher risks in men (fourth vs. first [highest] SES quartile: CDE, 1.50 [SI, 1.32, 1.69]) than women (CDE: 1.20 [SI: 1.01, 1.45]). Natural direct effects were similar to CDE, particularly in men. Bias adjustment lowered direct lung cancer risk estimates of lower SES groups. However, risks for low SES remained elevated, likely attributable to occupational hazards or other environmental exposures.
+39435907	35	46	lung cancer	Disease	MESH:D008175
+39435907	120	131	lung-cancer	Disease	MESH:D008175
+39435907	542	553	lung cancer	Disease	MESH:D008175
+39435907	1100	1111	lung-cancer	Disease	MESH:D008175
+39435907	1163	1166	men	Species	9606
+39435907	1178	1183	women	Species	9606
+39435907	1258	1269	lung cancer	Disease	MESH:D008175
+39435907	1326	1337	lung-cancer	Disease	MESH:D008175
+39435907	1374	1385	Lung-cancer	Disease	MESH:D008175
+39435907	1454	1457	men	Species	9606
+39435907	1528	1533	women	Species	9606
+39435907	1602	1605	men	Species	9606
+39435907	1651	1662	lung-cancer	Disease	MESH:D008175

@@ -1,0 +1,14 @@
+38957673|t|A three-year review of lung cancer patient characteristics in a tertiary hospital.
+38957673|a|The study sought to determine clinical characteristics and histologic subtypes of a cohort of lung cancer patients in a tertiary facility. Retrospective review of the medical records of histology-confirmed lung cancer cases at the respiratory clinic over a 3-year period. Respiratory Clinic, Korle-Bu Teaching Hospital, Accra, Ghana. All adult patients with histologically diagnosed lung cancer were enrolled. Lung cancer histological types. The proportion of lung cancer cases was 12.4%. The majority were women (57.8%) and the mean age at diagnosis was 55.8±16.0 years. The patients were predominantly non-smokers (61%). Common symptoms were chronic cough and chest pain. More than two-thirds of the cases presented in clinical stages III and IV with the predominant histological subtype being adenocarcinoma in smokers and non-smokers. Genetic testing for epidermal growth factor receptor (EGFR) and Anaplastic Lymphoma kinase (ALK) mutations were largely absent. The majority of lung cancer patients presented late with advanced disease. Adenocarcinoma was the predominant histological subtype in a predominantly non-smoking population, with an increased prevalence among women less than 60 years. This should encourage testing for genetic mutations to improve patient survival. None declared.
+38957673	35	42	patient	Species	9606
+38957673	200	208	patients	Species	9606
+38957673	469	477	patients	Species	9606
+38957673	664	669	women	Species	9606
+38957673	734	742	patients	Species	9606
+38957673	1017	1049	epidermal growth factor receptor	Gene	1956
+38957673	1051	1055	EGFR	Gene	1956
+38957673	1061	1087	Anaplastic Lymphoma kinase	Gene	238
+38957673	1089	1092	ALK	Gene	238
+38957673	1166	1174	patients	Species	9606
+38957673	1347	1352	women	Species	9606
+38957673	1436	1443	patient	Species	9606

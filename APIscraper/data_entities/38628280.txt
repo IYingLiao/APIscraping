@@ -1,0 +1,30 @@
+38628280|t|Post-traumatic growth in oncological patients during the COVID-19 pandemic.
+38628280|a|Post-traumatic growth (PTG) is defined as "positive psychological change experienced as a result of the struggle with highly challenging life circumstances". Diagnosis of cancer leads to many psychological challenges. The recent pandemic forced oncological patients to face other multiple stressors. Resilience is a target of interest for PTG. The aim of this study is to analyze relationships between cancer trauma, COVID-19 pandemic stress, PTG and resilience over time. One hundred forty-six patients (124 females, 22 males) in active oncological treatment were enrolled from September 2020: 45.2% ( DT decreased over time (T0 vs. T2,  For some patients, the cancer experience is characterized not only by psychological distress but also by the presence and growth of positive aspects, such as the tendency to positively reconsider the value and importance of life, health and social relationships.
+38628280	0	21	Post-traumatic growth	Disease	MESH:D006130
+38628280	25	36	oncological	Disease	MESH:D000072716
+38628280	37	45	patients	Species	9606
+38628280	57	65	COVID-19	Disease	MESH:D000086382
+38628280	88	109	Post-traumatic growth	Disease	MESH:D006130
+38628280	111	114	PTG	Disease	MESH:D006130
+38628280	259	265	cancer	Disease	MESH:D009369
+38628280	333	344	oncological	Disease	MESH:D000072716
+38628280	345	353	patients	Species	9606
+38628280	427	430	PTG	Disease	MESH:D006130
+38628280	490	503	cancer trauma	Disease	MESH:D009369
+38628280	505	513	COVID-19	Disease	MESH:D000086382
+38628280	531	534	PTG	Disease	MESH:D006130
+38628280	611	619	patients	Species	9606
+38628280	654	665	oncological	Disease	MESH:D000072716
+38628280	741	761	gynecological cancer	Disease	MESH:D009369
+38628280	783	796	breast cancer	Disease	MESH:D001943
+38628280	818	829	lung cancer	Disease	MESH:D008175
+38628280	857	864	cancers	Disease	MESH:D009369
+38628280	915	926	oncological	Disease	MESH:D000072716
+38628280	927	935	patients	Species	9606
+38628280	1079	1086	Anxiety	Disease	MESH:D001007
+38628280	1091	1101	Depression	Disease	MESH:D003866
+38628280	1155	1176	Post-traumatic Growth	Disease	MESH:D006130
+38628280	1369	1372	PTG	Disease	MESH:D006130
+38628280	1514	1517	PTG	Disease	MESH:D006130
+38628280	1628	1636	patients	Species	9606
+38628280	1642	1648	cancer	Disease	MESH:D009369

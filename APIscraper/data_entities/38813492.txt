@@ -1,0 +1,11 @@
+38813492|t|Management and prognosis of patients with cancer of unknown primary: 20 years of experience.
+38813492|a|Cancer of unknown primary (CUP) is a difficult clinical entity to manage. The aim of the study was to investigate the sociodemographic and pathological characteristics, treatment options, and factors affecting overall survival (OS) in CUP patients whose primary tumor was not detected during follow-up. A total of 243 CUP patients whose primary tumors could not be detected during follow-up were included in the study. Their demographic characteristics, survival outcomes, and prognostic factors were investigated. Of the 243 patients included in this study, 61.7% were male and 38.3% were female, and the median age was 61 (range: 19-90) years. The most common histological type was adenocarcinoma (79%). The median follow-up time of the patients was 30.3 months (95% CI: 11.4-49.3), the median OS time was 9.1 months (95% CI: 7.2-11.0), and 72.4% of the patients received at least 1 line of chemotherapy (CT). The difference in survival between the patients who did and did not receive CT was statistically significant (median OS: 10.1 vs. 4.2 months, p = 0.003). According to the multivariate analysis, the presence of cholestasis (HR: 0.48, 95% CI: 0.29-0.79, p = 0.004), lung metastasis (HR: 0.69, 95% CI: 0.51-0.95, p = 0.001), second-line chemotherapy (HR: 1.69, 95% CI: 1.14-2.49, p < 0.001), and Eastern Cooperative Oncology Group (ECOG) performance status (HR: 0.20, 95% CI: 0.10-0.40, p < 0.001) were independent prognostic factors influencing OS. CUP patients who receive multiple lines of chemotherapy tend to have longer survival. This is the first study to report cholestasis as a prognostic factor in CUP patients. In addition, the presence of lung metastases, not receiving second-line chemotherapy, and ECOG performance status (≥2) were found to be independent poor prognostic factors.
+38813492	28	36	patients	Species	9606
+38813492	348	356	patients	Species	9606
+38813492	454	462	patients	Species	9606
+38813492	667	675	patients	Species	9606
+38813492	880	888	patients	Species	9606
+38813492	997	1005	patients	Species	9606
+38813492	1092	1100	patients	Species	9606
+38813492	1616	1624	patients	Species	9606
+38813492	1774	1782	patients	Species	9606

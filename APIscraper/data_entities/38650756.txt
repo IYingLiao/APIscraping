@@ -1,0 +1,12 @@
+38650756|t|Single-cell RNA sequencing of human lung innate lymphoid cells in the vascular and tissue niche reveals molecular features of tissue adaptation.
+38650756|a|Innate lymphoid cells (ILCs) are sentinels of healthy organ function, yet it is unknown how ILCs adapt to distinct anatomical niches within tissues. Here, we used a unique humanized mouse model, MISTRG mice transplanted with human hematopoietic stem and progenitor cells (HSPCs), to define the gene signatures of human ILCs in the vascular versus the tissue (extravascular) compartment of the lung. Single-cell RNA sequencing in combination with intravascular cell labeling demonstrated that heterogeneous populations of human ILCs and natural killer (NK) cells occupied the vascular and tissue niches in the lung of HSPC-engrafted MISTRG mice. Moreover, we discovered that niche-specific cues shape the molecular programs of human ILCs in the distinct sub-anatomical compartments of the lung. Specifically, extravasation of ILCs into the lung tissue was associated with the upregulation of genes involved in the acquisition of tissue residency, cell positioning within the lung, sensing of tissue-derived signals, cellular stress responses, nutrient uptake, and interaction with other tissue-resident immune cells. We also defined a core tissue signature shared between human ILCs and NK cells in the extravascular space of the lung, consistent with imprinting by signals from the local microenvironment. The molecular characterization of human ILCs and NK cells in the vascular and tissue niches of the lung provides new knowledge on the mechanisms of ILC tissue adaptation and represents a resource for further studies.
+38650756	30	35	human	Species	9606
+38650756	327	332	mouse	Species	10090
+38650756	347	351	mice	Species	10090
+38650756	370	375	human	Species	9606
+38650756	458	463	human	Species	9606
+38650756	666	671	human	Species	9606
+38650756	784	788	mice	Species	10090
+38650756	871	876	human	Species	9606
+38650756	1316	1321	human	Species	9606
+38650756	1485	1490	human	Species	9606

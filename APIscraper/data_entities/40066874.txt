@@ -1,0 +1,22 @@
+40066874|t|Elucidating diagnostic efficacy and safety of the procedure: cryobiopsy of endobronchial lesions with a flexible bronchoscope.
+40066874|a|When compared to conventional forceps biopsy, the use of a flexible cryoprobe allows for the sampling of endobronchial lesions, yielding well-preserved, circumferential, and substantial specimens, resulting in a higher diagnostic yield, as demonstrated in multiple studies. We evaluated the utility of cryobiopsy in the diagnosis of endobronchial lesions, as well as its safety profile in this study. This retrospective study included 200 patients who underwent cryobiopsy for bronchoscopically visible endobronchial lesions between March 2016 and July 2022. Cryobiopsy was performed under conscious sedation using a flexible cryoprobe. Data on baseline patient characteristics, post-biopsy bleeding, and final histopathological diagnosis were collected. We evaluated the procedure's diagnostic yield and safety. The majority of the patients were male (84.5%), and the mean age of the patients was 56.96±13.64 years. In our study, the average size of the cryobiopsy specimen was 6.8±1.2 mm. In 93% of cases, a definitive diagnosis was established; the most common diagnosis was squamous cell carcinoma of the lung (42.5%), followed by adenocarcinoma (18.5%) and small cell carcinoma (13.5%). Tuberculosis and sarcoidosis were reported in 2.5% and 1% of cases, respectively. In this study, 1% of patients had severe bleeding that required intubation and intensive care unit admission, while 26% had moderate bleeding that was treated with cold saline and local epinephrine instillation. No mortality was reported in the study. Endobronchial cryobiopsy with a flexible bronchoscope is a safe procedure with a high diagnostic yield. This approach, which has a favorable safety profile, holds the promise of improving diagnostic and treatment outcomes in lung cancer and other benign lung diseases.
+40066874	75	96	endobronchial lesions	Disease	MESH:D009059
+40066874	232	253	endobronchial lesions	Disease	MESH:D009059
+40066874	460	481	endobronchial lesions	Disease	MESH:D009059
+40066874	566	574	patients	Species	9606
+40066874	630	651	endobronchial lesions	Disease	MESH:D009059
+40066874	781	788	patient	Species	9606
+40066874	818	826	bleeding	Disease	MESH:D006470
+40066874	960	968	patients	Species	9606
+40066874	1012	1020	patients	Species	9606
+40066874	1207	1242	squamous cell carcinoma of the lung	Disease	MESH:D002294
+40066874	1264	1278	adenocarcinoma	Disease	MESH:D000230
+40066874	1291	1311	small cell carcinoma	Disease	MESH:D018288
+40066874	1321	1333	Tuberculosis	Disease	MESH:D014376
+40066874	1338	1349	sarcoidosis	Disease	MESH:D012507
+40066874	1424	1432	patients	Species	9606
+40066874	1444	1452	bleeding	Disease	MESH:D006470
+40066874	1536	1544	bleeding	Disease	MESH:D006470
+40066874	1589	1600	epinephrine	Chemical	MESH:D004837
+40066874	1880	1891	lung cancer	Disease	MESH:D008175
+40066874	1902	1922	benign lung diseases	Disease	MESH:D008171

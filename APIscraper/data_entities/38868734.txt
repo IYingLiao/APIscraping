@@ -1,0 +1,14 @@
+38868734|t|Delirium due to Trousseau syndrome treated with memantine and perospirone: A case report.
+38868734|a|Trousseau syndrome is a hypercoagulability syndrome associated with cancer. It is known that delirium occasionally occurs after the onset of Trousseau syndrome. However, there have been no detailed reports about treatment for psychiatric symptoms of delirium associated with Trousseau syndrome. A 61-year-old man with lung cancer was hospitalized due to Trousseau syndrome. Delirium occurred after hospitalization and psychiatric symptoms worsened. Although haloperidol, risperidone, and chlorpromazine were used, severe insomnia persisted. After memantine (5 mg/day) was used with perospirone, the patient's psychiatric symptoms gradually decreased; he could sleep for 4-5 h at night. Due to psychiatric improvement, he was able to return home and resume immunotherapy for lung cancer as scheduled. We report the first case of Trousseau syndrome delirium treated by memantine used with perospirone. Although further studies are needed, memantine and perospirone might be candidates for the management of psychiatric symptoms associated with Trousseau syndrome.
+38868734	48	57	memantine	Chemical	MESH:D008559
+38868734	62	73	perospirone	Chemical	MESH:C065533
+38868734	579	590	haloperidol	Chemical	MESH:D006220
+38868734	592	603	risperidone	Chemical	MESH:D018967
+38868734	609	623	chlorpromazine	Chemical	MESH:D002746
+38868734	668	677	memantine	Chemical	MESH:D008559
+38868734	703	714	perospirone	Chemical	MESH:C065533
+38868734	720	727	patient	Species	9606
+38868734	1000	1009	memantine	Chemical	MESH:D008559
+38868734	1020	1031	perospirone	Chemical	MESH:C065533
+38868734	1070	1079	memantine	Chemical	MESH:D008559
+38868734	1084	1095	perospirone	Chemical	MESH:C065533

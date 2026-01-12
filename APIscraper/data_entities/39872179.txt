@@ -1,0 +1,38 @@
+39872179|t|Real world experience on patterns of usage and toxicity profile of immunotherapy drugs in Indian patients: A prospective observational study.
+39872179|a|Immune checkpoint inhibitors (ICIs) are now considered revolutionary agents in the treatment of various cancers. Prospective data are limited on the patterns of usage and toxicity profile of these drugs. We planned this study for addressing the same in Indian patients. This prospective study was conducted over a period of 2 years. All patients who were treated with Nivolumab, pembrolizumab, atezolizumab, and durvalumab were included. Immune-related adverse events were recorded. Toxicities were graded and number of patients experiencing dose limiting toxicities was recorded. A total of 53 patients received one of the above four agents. Majority of patients were less than 60 years of age. Carcinoma lung was the most frequent malignancy followed by renal cell carcinoma, Hodgkin's Lymphoma, Urinary Bladder cancers, Malignant Melanoma, and Recurrent/Metastatic Head and neck cancer. Nivolumab was used in most of the study population followed by pembrolizumab. Majority of agents were used in second line. The frequency of all grade adverse events for fatigue, anemia, pneumonitis, skin rash, dyspnea, diarrhea, and hypothyroidism were (in %) 73.58, 62.26, 16.9, 11.32, 9.43, 9.43, and 7.55, respectively. No grade 5 toxicity was observed. None of the grade 3 or 4 toxicities led to treatment discontinuation. Statistically, no difference was found for all grade toxicities among ICI drugs and among the various lines of use. Nivolumab was the commonest drug used in our cohort. Most of ICIs were used in second-line setting. Toxicities are in line with the published literature.
+39872179	47	55	toxicity	Disease	MESH:D064420
+39872179	97	105	patients	Species	9606
+39872179	258	265	cancers	Disease	MESH:D009369
+39872179	325	333	toxicity	Disease	MESH:D064420
+39872179	414	422	patients	Species	9606
+39872179	500	508	patients	Species	9606
+39872179	531	540	Nivolumab	Chemical	MESH:D000077594
+39872179	542	555	pembrolizumab	Chemical	MESH:C582435
+39872179	557	569	atezolizumab	Chemical	MESH:C000594389
+39872179	575	585	durvalumab	Chemical	MESH:C000613593
+39872179	646	656	Toxicities	Disease	MESH:D064420
+39872179	683	691	patients	Species	9606
+39872179	719	729	toxicities	Disease	MESH:D064420
+39872179	767	775	patients	Species	9606
+39872179	827	835	patients	Species	9606
+39872179	868	882	Carcinoma lung	Disease	MESH:D008175
+39872179	905	915	malignancy	Disease	MESH:D009369
+39872179	928	948	renal cell carcinoma	Disease	MESH:D002292
+39872179	950	968	Hodgkin's Lymphoma	Disease	MESH:D006689
+39872179	970	993	Urinary Bladder cancers	Disease	MESH:D001749
+39872179	995	1013	Malignant Melanoma	Disease	MESH:D008545
+39872179	1040	1060	Head and neck cancer	Disease	MESH:D006258
+39872179	1062	1071	Nivolumab	Chemical	MESH:D000077594
+39872179	1125	1138	pembrolizumab	Chemical	MESH:C582435
+39872179	1231	1238	fatigue	Disease	MESH:D005221
+39872179	1240	1246	anemia	Disease	MESH:D000740
+39872179	1248	1259	pneumonitis	Disease	MESH:D011014
+39872179	1261	1270	skin rash	Disease	MESH:D005076
+39872179	1272	1279	dyspnea	Disease	MESH:D004417
+39872179	1281	1289	diarrhea	Disease	MESH:D003967
+39872179	1295	1309	hypothyroidism	Disease	MESH:D007037
+39872179	1396	1404	toxicity	Disease	MESH:D064420
+39872179	1444	1454	toxicities	Disease	MESH:D064420
+39872179	1542	1552	toxicities	Disease	MESH:D064420
+39872179	1617	1626	Nivolumab	Chemical	MESH:D000077594
+39872179	1717	1727	Toxicities	Disease	MESH:D064420

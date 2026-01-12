@@ -1,0 +1,21 @@
+38812653|t|Sodium-fluorescein-guided awake surgery for cerebral metastases located in eloquent brain areas: technical notes and preliminary experiences.
+38812653|a|Awake craniotomy (AC) maximizes the resection of lesions in eloquent brain areas while preserving functionality. Tumor delineation with intraoperative use of sodium fluorescein (NaFl) facilitates total resection. When used with AC, it may allow for safe resection without increasing the risk of postoperative neurologic deficits. This study investigated the efficacy and safety of the combined use of NaFl and AC for maximum safe resection in patients with brain metastases. Patients who underwent AC due to brain metastasis in the Department of Neurosurgery of Uludağ University's Faculty of Medicine between January 1, 2018 and August 1, 2022, were retrospectively analyzed. The study comprised 2 patient groups: plain AC (pAC) and NaFl-guided AC (NaFlg-AC). Surgical outcomes related to fluorescence intensity, degree of resection, perioperative complications, and postoperative neurological factors were evaluated. The pAC group included 16 patients (12 males, 4 females), and the NaFlg-AC group comprised 21 (13 males, 7 females). The mean patient ages for males and females were 61.4 years (61.4 ± 9.5 years) and 60.4 years (60.6 ± 12 years), respectively. The most common origin of the metastatic lesion was the lung in both the pAC and NaFlg-AC groups (n = 12 vs. n = 14, respectively). Gross total resection (GTR) was achieved in 85.7% of the patients in the NaFlg-AC group, whereas the GTR rate was 68.7% in the pAC group. There was no significant difference in GTR rates between the 2 groups (p = 0.254). The mean duration of the resection time was significantly shorter in the NaFlg-AC group (45.95 ± 7.00 min vs. 57.5 ± 12.51 min; p = 0.002). The patients' Karnofsky Performance Status (KPS) score did not reach statistical significance at 6-month follow-up in either group compared to their preoperative baseline scores (p = 0.374). KPS did not show a significant difference between the 2 groups at any time. Fluorescence-guided resection in AC for metastatic tumors in sensory, motor, and cognitive areas is a feasible, safe, and convenient technique that significantly increases GTR rates and shortens operative time compared to conventional white light surgery without fluorescence guidance. It also does not increase the incidence of postoperative complications. With the combined use of AC and NaFl, ensuring clear and visible tumor margins during surgery and controlling patients' neurological function in real-time are possible.
+38812653	0	18	Sodium-fluorescein	Chemical	MESH:D019793
+38812653	316	334	sodium fluorescein	Chemical	MESH:D019793
+38812653	336	340	NaFl	Chemical	-
+38812653	559	563	NaFl	Chemical	-
+38812653	601	609	patients	Species	9606
+38812653	655	663	Patients	Species	9606
+38812653	879	886	patient	Species	9606
+38812653	914	918	NaFl	Chemical	-
+38812653	930	935	NaFlg	Chemical	-
+38812653	1134	1142	patients	Species	9606
+38812653	1174	1179	NaFlg	Chemical	-
+38812653	1234	1241	patient	Species	9606
+38812653	1435	1440	NaFlg	Chemical	-
+38812653	1543	1551	patients	Species	9606
+38812653	1559	1564	NaFlg	Chemical	-
+38812653	1780	1785	NaFlg	Chemical	-
+38812653	1853	1861	patients	Species	9606
+38812653	2518	2522	NaFl	Chemical	-
+38812653	2596	2604	patients	Species	9606

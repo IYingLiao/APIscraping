@@ -1,0 +1,4 @@
+38692804|t|Update on Silicosis.
+38692804|a|Although silicosis has been an established disease with a recognized cause for more than 100 years, many workers continue to be exposed to silica and new outbreaks of disease continue to occur. This article describes some of the well-established and new exposures, including denim sandblasting, artificial stone cutting, and some forms of "coal worker's pneumoconiosis." The authors review the imaging and pathology of acute silicosis (silicoproteinosis), simple silicosis, and progressive massive fibrosis and summarize known and putative associations of silica exposure, including tuberculosis, lung cancer, connective tissue disease (especially systemic sclerosis), and vasculitis.
+38692804	160	166	silica	Chemical	MESH:D012822
+38692804	577	583	silica	Chemical	MESH:D012822

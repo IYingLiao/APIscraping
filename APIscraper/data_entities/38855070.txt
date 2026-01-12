@@ -1,0 +1,4 @@
+38855070|t|A Surgeon Involved in Basic Research - on the Occasion of Studying Abroad.
+38855070|a|I, the author, expressed gratitude for receiving the 45
+38855070	753	763	mesothelin	Gene	10232
+38855070	765	784	fatty acid synthase	Gene	2194

@@ -1,0 +1,18 @@
+38948504|t|A stability indicating method development and validation of a rapid and sensitive RP-HPLC method for Nintedanib and its application in quantification of nanostructured lipid carriers.
+38948504|a|Nintedanib (NTB) is a multiple tyrosine kinase inhibitor, been investigated for many disease conditions like idiopathic pulmonary fibrosis (IPF), systemic sclerosis interstitial lung disease (SSc-ILD) and non-small cell lung cancer (NSCLC). NTB is available as oral capsule formulation, but its ability to detect degradants formed through oxidative, photolytic and hydrolytic processes makes it difficult to quantify. In the current work, a novel reversed-phase high-performance liquid chromatography (RP-HPLC) method was developed and validated. The developed method is simple, precise, reproducible, stable and accurate. The inherent stability of NTB was evaluated using the proposed analytical method approach and force degradation studies were carried out. NTB was separated chromatographically on the Shimadzu C  NTB was eluted at 6.77±0.00 min of retention time (t  The formulation excipients didn't interfere with the determination of NTB, demonstrating the specificity of the developed method. The proposed approach of the analytical method developed can be used to quantify the amount of NTB present in bulk drugs and pharmaceutical formulations.
+38948504	101	111	Nintedanib	Chemical	MESH:C530716
+38948504	168	173	lipid	Chemical	MESH:D008055
+38948504	196	206	Nintedanib	Chemical	MESH:C530716
+38948504	208	211	NTB	Chemical	MESH:C530716
+38948504	227	242	tyrosine kinase	Gene	7294
+38948504	437	440	NTB	Chemical	MESH:C530716
+38948504	854	857	NTB	Chemical	MESH:C530716
+38948504	966	969	NTB	Chemical	MESH:C530716
+38948504	1124	1138	triethyl amine	Chemical	MESH:C016162
+38948504	1140	1143	TEA	Chemical	MESH:C016162
+38948504	1159	1164	water	Chemical	MESH:D014867
+38948504	1169	1181	acetonitrile	Chemical	MESH:C032159
+38948504	1183	1186	ACN	Chemical	MESH:C032159
+38948504	1339	1342	NTB	Chemical	MESH:C530716
+38948504	1777	1780	NTB	Chemical	MESH:C530716
+38948504	1932	1935	NTB	Chemical	MESH:C530716

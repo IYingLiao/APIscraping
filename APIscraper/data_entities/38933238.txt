@@ -1,0 +1,9 @@
+38933238|t|A CASE OF HYPONATREMIA DUE TO PITUITARY METASTASIS OF LUNG CANCER.
+38933238|a|Hyponatremia is a common electrolyte abnormality. We report a patient who presented with hyponatremia and diagnosed as small cell lung cancer metastatic to hypothalamus and pituitary. A 68 year old male patient was admitted with fever and cough and pneumonia was considered. Serum sodium level was 113 mmol/L. Syndrome of inappropriate ADH (SIADH) is considered. Thyroid function tests and cortisol levels pointed out a central deficiency in both axes. Pituitary MRI was performed and a hypothalamic and pituitary mass were observed. Prednisolone therapy was started followed by L thyroxine replacement. A chest computer tomography (CT) was taken 2 weeks later revealed a mass lesion. Bronchoscopic biopsy was performed and histopathological diagnosis of the tumor was reported as small cell lung cancer. Many mechanisms were considered as the cause of hyponatremia in our patient. SIADH, secondary adrenal insufficiency and secondary hypothyroidism due to pituitary metastasis are possible causes. The reason of hyponatremia is sometimes complex. When the underlying causes of hyponatremia are not evaluated in detail, many diagnoses can be missed.
+38933238	149	156	patient	Species	9606
+38933238	303	310	patient	Species	9606
+38933238	381	387	sodium	Chemical	MESH:D012964
+38933238	490	498	cortisol	Chemical	MESH:D006854
+38933238	634	646	Prednisolone	Chemical	MESH:D011239
+38933238	681	690	thyroxine	Chemical	MESH:D013974
+38933238	981	988	patient	Species	9606

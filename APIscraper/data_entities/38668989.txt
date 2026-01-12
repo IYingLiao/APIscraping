@@ -1,0 +1,10 @@
+38668989|t|FIT negative clinic as a safety net for low-risk patients with colorectal cancer: impact on endoscopy and radiology utilisation-a retrospective cohort study.
+38668989|a|Faecal immunochemical testing (FIT) is recommended by the National Institute for Health and Care Excellence to triage symptomatic primary care patients who have unexplained symptoms but do not meet the criteria for a suspected lower gastrointestinal cancer pathway. During the COVID-19 pandemic, FIT was used to triage patients referred with urgent 2-week wait (2ww) cancer referrals instead of a direct-to-test strategy. FIT-negative patients were assessed and safety netted in a FIT negative clinic. We reviewed case notes for 622 patients referred on a 2ww pathway and seen in a FIT negative clinic between June 2020 and April 2021 in a tertiary care hospital. We collected information on demographics, indication for referral, dates for referral, clinic visit, investigations and long-term outcomes. The average age of the patients was 71.5 years with 54% female, and a median follow-up of 2.5 years. Indications for referrals included: anaemia (11%), iron deficiency (24%), weight loss (9%), bleeding per rectum (5%) and change in bowel habits (61%). Of the cases, 28% (95% CI 24% to 31%) had endoscopic (15%, 95% CI 12% to 18%) and/or radiological (20%, 95% CI 17% to 23%) investigations requested after clinic review, and among those investigated, malignancy rate was 1.7%, with rectosigmoid neuroendocrine tumour, oesophageal cancer and lung adenocarcinoma. A FIT negative clinic provides a safety net for patients with unexplained symptoms but low risk of colorectal cancer. These real-world data demonstrate significantly reduced demand on endoscopy and radiology services for FIT-negative patients referred via the 2ww pathway.
+38668989	49	57	patients	Species	9606
+38668989	313	321	patients	Species	9606
+38668989	489	497	patients	Species	9606
+38668989	605	613	patients	Species	9606
+38668989	712	720	patients	Species	9606
+38668989	1015	1023	patients	Species	9606
+38668989	1614	1622	patients	Species	9606
+38668989	1800	1808	patients	Species	9606

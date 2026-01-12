@@ -1,0 +1,13 @@
+38778819|t|Differential Effect of Consolidative Thoracic Radiation Therapy in Extensive-Stage Small Cell Lung Cancer Based on Sex.
+38778819|a|The landmark randomized trial on chest irradiation in extensive disease small cell lung cancer (CREST) demonstrated that consolidative thoracic radiation therapy (cTRT) improved overall (OS) and progression-free survival (PFS) after initial chemotherapy (chemo) in extensive-stage small cell lung cancer, with potentially increased benefit in women compared with men. It is unknown whether similar findings would apply after chemoimmunotherapy became the standard first-line treatment. In this analysis, we report national practice patterns and survival outcomes of cTRT according to patient sex. We included patients from de-identified electronic health record-derived database diagnosed with stage IV small cell lung cancer (2014-2021) who completed 4 to 6 cycles of first-line systemic therapy (platinum-doublet chemotherapy or chemoimmunotherapy). We evaluated OS and PFS using multivariable Cox proportional hazards regression with receipt of cTRT as an independent variable and stratified by sex. As a sensitivity analysis, we weighted the models by the inverse probability of receiving cTRT. A total of 1227 patients were included (850 chemotherapy, 377 chemoimmunotherapy). There were no statistically significant differences in baseline characteristics between patients who did and did not receive cTRT. Among women, cTRT was associated with superior OS (adjusted hazard ratio [HR], 0.67; 95% CI, 0.52-0.87) and PFS (HR, 0.63; 95% CI, 0.49-0.82) compared with those not receiving cTRT. Conversely, no OS or PFS benefit with cTRT was observed in men (OS HR, 1.03; 95% CI, 0.80-1.31; PFS HR, 1.12; 95% CI, 0.85-1.47). Findings were similar in weighted analyses. The survival efficacy of cTRT may be moderated by sex, with female patients appearing more likely to benefit than male patients. These findings reflect sex-based survival trends with similar effect sizes to those observed in the CREST trial. Although the underpinnings of this association need to be elucidated, stratification by sex should be considered for randomized-controlled trials studying cTRT in extensive-stage small cell lung cancer.
+38778819	472	477	women	Species	9606
+38778819	492	495	men	Species	9606
+38778819	713	720	patient	Species	9606
+38778819	761	769	patients	Species	9606
+38778819	950	958	platinum	Chemical	MESH:D010984
+38778819	1276	1284	patients	Species	9606
+38778819	1431	1439	patients	Species	9606
+38778819	1480	1485	women	Species	9606
+38778819	1715	1718	men	Species	9606
+38778819	1910	1918	patients	Species	9606
+38778819	1962	1970	patients	Species	9606

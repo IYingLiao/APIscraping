@@ -1,0 +1,9 @@
+38690419|t|En bloc chest wall resection in locally advanced cT3N2 (stage IIIB) lung cancer involving the chest wall: Revisiting guidelines.
+38690419|a|Current National Comprehensive Cancer Network guidelines recommend definitive chemoradiation rather than surgery for patients with locally advanced clinical stage T3 and N2 (stage IIIB) lung cancer involving the chest wall. The data supporting this recommendation are controversial. We studied whether surgery confers a survival advantage over definitive chemoradiation in the National Cancer Database. We identified all patients with clinical stage T3 and N2 lung cancer in the National Cancer Database from 2004 to 2017 who underwent a lobectomy with en bloc chest wall resection and compared them with patients with clinical stage T3 and N2 lung cancer who had definitive chemoradiation. We used propensity score matching to minimize confounding by indication while excluding patients with tumors in the upper lobes to exclude Pancoast tumors. We used 1:1 propensity score matching and Kaplan-Meir survival analyses to estimate associations. Of 4467 patients meeting all inclusion/exclusion criteria, 210 (4.49%) had an en bloc chest wall resection. Patients undergoing surgical resection were younger (mean age = 60.3 ± 10.3 years vs 67.5 ± 10.4 years;  In this large observational study, we found that in select patients, en bloc chest wall resection for locally advanced clinical stage T3 and N2 lung cancer was associated with improved survival compared with definitive chemoradiation. National Comprehensive Cancer Network guidelines should be revisited.
+38690419	258	266	patients	Species	9606
+38690419	571	579	patients	Species	9606
+38690419	755	763	patients	Species	9606
+38690419	929	937	patients	Species	9606
+38690419	1112	1120	patients	Species	9606
+38690419	1212	1220	Patients	Species	9606
+38690419	1847	1855	patients	Species	9606

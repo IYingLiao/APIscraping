@@ -1,0 +1,10 @@
+39118937|t|A Case of Cholangitis as a Nivolumab-Induced Immune-Related Adverse Event in a Patient with Pulmonary Metastasis After Surgery for Oral Cancer.
+39118937|a|We report a case of cholangitis, an immune-related adverse event (irAE), caused by the administration of nivolumab in a patient with lung metastasis of oral cancer. A 72-year-old man developed pulmonary metastasis after surgery for oral cancer. Hepatic enzyme abnormalities were observed after the second session of treatment, and irAE cholangitis was diagnosed based on the results of the blood test results and endoscopy findings. We suggested steroid treatment, but the patient refused it. Therefore, he was treated with ursodeoxycholic acid. The cholangitis gradually deteriorated, the patients' general condition worsened, and he died 169 days after the onset of cholangitis.
+39118937	27	36	Nivolumab	Chemical	MESH:D000077594
+39118937	79	86	Patient	Species	9606
+39118937	249	258	nivolumab	Chemical	MESH:D000077594
+39118937	264	271	patient	Species	9606
+39118937	590	597	steroid	Chemical	MESH:D013256
+39118937	617	624	patient	Species	9606
+39118937	668	688	ursodeoxycholic acid	Chemical	MESH:D014580
+39118937	734	742	patients	Species	9606

@@ -1,0 +1,20 @@
+39279962|t|Stereotactic body radiation therapy in non-liver colorectal metastases: a scoping review.
+39279962|a|In oligometastatic colorectal cancer (CRC), stereotactic body radiation therapy (SBRT) represents a valid non-invasive local ablative treatment with high rates of local control (LC) and a low toxicity profile. This literature review was performed to evaluate the clinical benefit and toxicity of SBRT on non-liver metastases in CRC oligometastatic patients. After searching PubMed, Medscape and Embase databases, 18 retrospective studies focused on body oligometastases excluding bone metastases were included in the analysis. A total of 1,450 patients with 3,227 lung metastases and 53 patients with 66 nodes lesions were analyzed. BED10 ranged from 76 to 180 Gy. In the lung group, the LC rate was 62-91%, 54-81% and 56-77% after 1, 3 and 5 years, respectively. In the nodes group, the 3-year LC rate was 65-75%. The 1-, 3- and 5-year OS rates were 73-100%, 51-64% and 34-43%, respectively for the lung group, and 63-81% at 3 years for the nodes group. In CRC patients with non-liver oligometastases, the use of SBRT is effective and safe reaching high LC and survival, with few severe side effects. However, prospective randomized studies are needed to validate the results. These studies will also be useful for identifying any predictive factors that allow us to select the subgroup of patients who benefit from SBRT.
+39279962	49	70	colorectal metastases	Disease	MESH:D009362
+39279962	121	138	colorectal cancer	Disease	MESH:D015179
+39279962	140	143	CRC	Disease	MESH:D015179
+39279962	294	302	toxicity	Disease	MESH:D064420
+39279962	386	394	toxicity	Disease	MESH:D064420
+39279962	416	426	metastases	Disease	MESH:D009362
+39279962	430	433	CRC	Disease	MESH:D015179
+39279962	450	458	patients	Species	9606
+39279962	591	606	bone metastases	Disease	MESH:D009362
+39279962	664	672	patients	Species	9606
+39279962	684	699	lung metastases	Disease	MESH:D009362
+39279962	707	715	patients	Species	9606
+39279962	724	729	nodes	Disease	MESH:D012804
+39279962	891	896	nodes	Disease	MESH:D012804
+39279962	1062	1067	nodes	Disease	MESH:D012804
+39279962	1091	1094	CRC	Disease	MESH:D015179
+39279962	1095	1103	patients	Species	9606
+39279962	1424	1432	patients	Species	9606

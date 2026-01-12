@@ -1,0 +1,16 @@
+39412934|t|Extensive metastatic ependymoma with long-term progression-free survival with capecitabine plus temozolomide combination chemotherapy: A case report.
+39412934|a|We wanted to present a rare case of metastatic grade 2 spinal ependymoma with an atypical course at the time of diagnosis. Temozolomide plus capecitabine chemotherapy was started in May 2018 on a 30-year-old female patient with sacral ependymoma who had extensive lung metastases at the time of diagnosis. The patient remained in remission for approximately 29 months, and the current chemotherapy was continued until it progressed in November 2020. According to this case report, a combination of temozolomide and capecitabine may be the best treatment option for ependymoma patients.
+39412934	21	31	ependymoma	Disease	MESH:D004806
+39412934	78	90	capecitabine	Chemical	MESH:D000069287
+39412934	96	108	temozolomide	Chemical	MESH:D000077204
+39412934	215	232	spinal ependymoma	Disease	MESH:D004806
+39412934	283	295	Temozolomide	Chemical	MESH:D000077204
+39412934	301	313	capecitabine	Chemical	MESH:D000069287
+39412934	375	382	patient	Species	9606
+39412934	388	405	sacral ependymoma	Disease	MESH:D004806
+39412934	424	439	lung metastases	Disease	MESH:D009362
+39412934	470	477	patient	Species	9606
+39412934	658	670	temozolomide	Chemical	MESH:D000077204
+39412934	675	687	capecitabine	Chemical	MESH:D000069287
+39412934	725	735	ependymoma	Disease	MESH:D004806
+39412934	736	744	patients	Species	9606

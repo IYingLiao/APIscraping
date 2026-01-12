@@ -1,0 +1,9 @@
+38796764|t|[DICER1 syndrome: clinical variety endocrine manifestations and features of diagnostics].
+38796764|a|DICER1 syndrome is a rare genetic disorder with the progressive development of malignant and non-malignant diseases in childhood. The cause of this syndrome is a dusfunction of the endoribonuclease DICER, which plays an important role in the processing of microRNAs with subsequent regulation of the control of the expression of oncogenes and tumor suppressor genes. Clinical manifestations of dyseropathies is very different and may include both endocrine manifestations - multinodular goiter, differentiated thyroid cancers, ovarian stromal tumors, pituitary blastoma, and non-endocrine formations - pleuropulmonary blastoma, cystic nephroma, pineoblastoma. The presence of somatic mutations of the DICER1 gene is a resultant stage in the pathogenesis of dyseropathies, determining the further path of oncogenesis. At present, DICER1 syndrome is diagnosed extremely rarely, which leads to late detection of the components of the disease in the patient, late diagnosis of neoplasms, lack of family counseling. Diagnosis at the early stages of the disease, the development of screening programs for the management of these patients allows minimizing the risks of developing more malignant, aggressive forms of the disease.
+38796764	1	7	DICER1	Gene	23405
+38796764	90	96	DICER1	Gene	23405
+38796764	288	293	DICER	Gene	23405
+38796764	791	797	DICER1	Gene	23405
+38796764	919	925	DICER1	Gene	23405
+38796764	1036	1043	patient	Species	9606
+38796764	1213	1221	patients	Species	9606

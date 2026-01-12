@@ -1,0 +1,24 @@
+38919661|t|Study of Biomarker Discordance between Primary and Recurrent Sites and its Clinical Implications in Metastatic Breast Cancer : A Single Institutional Study from India.
+38919661|a|S. Shanthala Immunophenotypic discordance of receptors between primary and metastatic sites significantly impacts treatment outcomes. Current international guidelines recommend rebiopsy of accessible metastatic lesions to reassess tissue biomarkers. While existing literature on biomarker changes is conflicting and heterogeneous, similar studies on the Indian cohort of breast cancer patients are lacking. In this context, we aimed to evaluate the frequencies of biomarker changes between biopsies from primary and recurrent sites, and their association with various clinicopathological characteristics, including the type of metastasis and treatment in metastatic breast cancer (MBC) patients. This is an ambispective study performed at a single center. Immunohistochemical (IHC) expression of paired primary and recurrence samples of MBC patients was reviewed for the expression of estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor 2 (HER2), and Ki-67. Concordance, loss, and gain of receptors were assessed based on the Allred scores for ER, PR, and HER2. Ki-67 was assessed based on a 14% cutoff. Further, receptor changes were studied in relation to age, menopausal status, morphology, grade, stage, metastatic sites, interval between biopsies, and treatment. At progression, biopsies were obtained from 41.18% of locoregional recurrence and 58.82% of metastatic sites. Despite high discordance of 47% for ER and 68.6% for PR, true receptor conversion was observed in 9.8%, 21.56%, and 5.88% for ER, PR, and HER2, respectively. There was a significant correlation between age and ER discordance (
+38919661	553	561	patients	Species	9606
+38919661	854	862	patients	Species	9606
+38919661	1009	1017	patients	Species	9606
+38919661	1053	1070	estrogen receptor	Gene	2099
+38919661	1072	1074	ER	Gene	2099
+38919661	1077	1098	progesterone receptor	Gene	5241
+38919661	1100	1102	PR	Gene	5241
+38919661	1242	1244	ER	Gene	2099
+38919661	1246	1248	PR	Gene	5241
+38919661	1612	1614	ER	Gene	2099
+38919661	1629	1631	PR	Gene	5241
+38919661	1702	1704	ER	Gene	2099
+38919661	1706	1708	PR	Gene	5241
+38919661	1786	1788	ER	Gene	2099
+38919661	1824	1826	PR	Gene	5241
+38919661	1946	1948	PR	Gene	5241
+38919661	2305	2307	ER	Gene	2099
+38919661	2333	2335	PR	Gene	5241
+38919661	2351	2353	ER	Gene	2099
+38919661	2367	2369	ER	Gene	2099
+38919661	2405	2407	PR	Gene	5241
+38919661	2459	2461	PR	Gene	5241

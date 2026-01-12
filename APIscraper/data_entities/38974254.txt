@@ -1,0 +1,10 @@
+38974254|t|High resolution chest computed tomography findings in patients with clinically suspected COVID-19 pneumonia in Uganda: a cross-sectional study.
+38974254|a|The alarming spread of the COVID-19 pandemic has led to a shortage of RT-PCR kits in Uganda necessitating the use of high-resolution chest Computed Tomography to guide patient management and treatment. To describe the chest HRCT findings in patients with clinically suspected COVID-19 pneumonia and to compare its diagnostic accuracy to RT-PCR. . In this cross-sectional study, chest HRCT findings of 384 patients and available RT-PCR laboratory results were reviewed and recorded in the data collection form. The commonest chest HRCT findings were bilateral ground glass opacities (78.2%). Out of the 31.7% patients that took the PCR test only 26.9% tested positive. 16 out of 17 patients who tested negative, were classified under CORADS 5.The sensitivity of chest HRCT was 90.4%, 95% CI (82.6-95.5), positive predictive value of 84.2%, 95% CI (75.6-90.7), and accuracy of 77.5%, 95% CI (71.5-87.1). HRCT was found superior to RT-PCR in diagnosing COVID-19. A patient with positive HRCT findings should be treated as COVID 19 when RT-PCR is inaccessible or results are negative. A patient with negative HRCT requires complimentary RT-PCR and possibly follow up CT scans if symptoms persist before treating for COVID 19.
+38974254	54	62	patients	Species	9606
+38974254	324	331	patient	Species	9606
+38974254	413	421	patients	Species	9606
+38974254	586	594	patients	Species	9606
+38974254	798	806	patients	Species	9606
+38974254	871	879	patients	Species	9606
+38974254	1165	1172	patient	Species	9606
+38974254	1286	1293	patient	Species	9606

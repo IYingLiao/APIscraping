@@ -1,0 +1,10 @@
+39492108|t|Urban Zen integrative therapy: Understanding intervention delivery adherence.
+39492108|a|Complementary health approaches have shown therapeutic benefits in symptom reduction and improved patients' quality of life for chronic debilitating conditions such as cancer and pulmonary hypertension. Urban Zen Integrative Therapy (UZIT) is a mindfulness-based multicomponent complementary intervention shown to improve symptom management and quality of life in patients with pulmonary hypertension. Consistent intervention delivery across interventionists is critical to test mindfulness-based multicomponent interventions on a larger scale and further implementations as an augmented practice in routine care. The purpose of the study is to explore interventionists' perspectives of UZIT delivery to gain an in-depth understanding of subjective interventionist-related variables that may influence intervention fidelity beyond objective measurements. Two trained Urban Zen Integrative Therapy interventionists provided their perspectives via joint interviews after delivering 78 one-on-one UZIT sessions to 14 pulmonary hypertension patients. A UZIT session incorporates essential oil, gentle movement, positioning, and meditation. Qualitative analysis revealed four main contextual themes related to UZIT delivery adherence: (1) balancing between tailoring and standardization, (2) challenges with delivery, (3) the need for teamwork, and (4) clients' application of UZIT. When mindfulness-based complementary intervention is aimed at affecting behavioral health practice outcomes, comprehensive contextual insights from interventionists' point-of-view can enhance intervention fidelity and help researchers strengthen the conduct of rigorous research.
+39492108	188	196	patients	Species	9606
+39492108	258	264	cancer	Disease	MESH:D009369
+39492108	269	291	pulmonary hypertension	Disease	MESH:D006976
+39492108	454	462	patients	Species	9606
+39492108	468	490	pulmonary hypertension	Disease	MESH:D006976
+39492108	1124	1146	pulmonary hypertension	Disease	MESH:D006976
+39492108	1147	1155	patients	Species	9606
+39492108	1185	1198	essential oil	Chemical	MESH:D009822

@@ -1,0 +1,18 @@
+39069773|t|[Fulminant hypercorticism due to ACTG producing pheochromocytoma].
+39069773|a|Endogenous hypercorticism (EH) is a severe symptom complex caused by hypercortisolemia; according to the etiology, ACTH-dependent and ACTH-independent variants are distinguished, which, according to the literature, occur in 70-80% and 20-30% of cases, respectively. A rare cause of ACTH-dependent endogenous hypercorticism is ACTH-ectopic syndrome (ACTH-ES) (about 15-20% of cases). ACTH-ES is a syndrome of adrenocorticotropic hormone (ACTH) hyperproduction by neuroendocrine tumors of extrahypophyseal origin. Various tumors can secrete ACTH: bronchopulmonary carcinoid, small cell lung cancer, less frequently, thymus carcinoid, islet cell tumors and pancreatic carcinoid, medullary thyroid cancer, carcinoid tumors of the intestine, ovaries, as well as pheochromocytoma (PCC).This publication presents a clinical case of rarely detected paraneoplastic ACTH production by pheochromocytoma. The patient had clinical manifestations of hypercorticism, therefore, she applied to the Russian National Research Center of Endocrinology of the Ministry of Health of Russia. During the examination Cushing's syndrome (CS) was confirmed, multispiral computed tomography (MSCT) of the abdominal cavity revealed a voluminous formation of the left adrenal gland. Additional examination recorded a multiple increase in urinary catecholamine levels. Subsequently, the patient underwent left-sided adrenalectomy. The diagnosis of pheochromocytoma was confirmed morphologically, immunohistochemical study demonstrated intensive expression of chromogranin A and ACTH by tumor cells.
+39069773	33	37	ACTG	Gene	71
+39069773	182	186	ACTH	Gene	5443
+39069773	201	205	ACTH	Gene	5443
+39069773	349	353	ACTH	Gene	5443
+39069773	393	397	ACTH	Gene	5443
+39069773	416	420	ACTH	Gene	5443
+39069773	450	454	ACTH	Gene	5443
+39069773	475	502	adrenocorticotropic hormone	Gene	5443
+39069773	504	508	ACTH	Gene	5443
+39069773	606	610	ACTH	Gene	5443
+39069773	923	927	ACTH	Gene	5443
+39069773	964	971	patient	Species	9606
+39069773	1383	1396	catecholamine	Chemical	MESH:D002395
+39069773	1423	1430	patient	Species	9606
+39069773	1595	1609	chromogranin A	Gene	1113
+39069773	1614	1618	ACTH	Gene	5443

@@ -1,0 +1,33 @@
+38601483|t|Risk of interstitial lung disease with the use of programmed cell death 1 (PD-1) inhibitor compared with programmed cell death ligand 1 (PD-L1) inhibitor in patients with breast cancer: A systematic review and meta-analysis.
+38601483|a|Programmed cell death 1 (PD-1) and programmed cell death ligand 1 (PD-L1) inhibitors have become integral elements within the current landscape of breast cancer treatment modalities; however, they are associated with interstitial lung disease (ILD), which is rare but potentially fatal. Notably, only a few studies have compared the difference in ILD incidence between PD-1 and PD-L1 inhibitors. Therefore, this study aimed to assess the discrepancies regarding ILD risk between the two immune checkpoint inhibitors. We also reported three cases of ILD after PD-1 inhibitor treatment. We comprehensively searched PubMed, EMBASE, and the Cochrane Library to identify clinical trials that investigated PD-1/PD-L1 inhibitor treatment for patients with breast cancer. Pooled overall estimates of incidence and risk ratio (RR) were calculated with a 95% confidence interval (CI), and a mirror group analysis was performed using eligible studies. This meta-analysis included 29 studies with 4639 patients who received PD-1/PD-L1 inhibitor treatment. A higher ILD incidence was observed among 2508 patients treated with PD-1 inhibitors than among 2131 patients treated with PD-L1 inhibitors (0.05  Our findings suggest a greater risk of ILD with PD-1 inhibitors than with PD-L1 inhibitors. These findings are instrumental for clinicians in treatment deliberations, and the adoption of more structured diagnostic approaches and management protocols is necessary to mitigate the risk of ILD.
+38601483	8	33	interstitial lung disease	Disease	MESH:D017563
+38601483	50	73	programmed cell death 1	Gene	5133
+38601483	105	135	programmed cell death ligand 1	Gene	29126
+38601483	137	142	PD-L1	Gene	29126
+38601483	157	165	patients	Species	9606
+38601483	171	184	breast cancer	Disease	MESH:D001943
+38601483	237	260	Programmed cell death 1	Gene	5133
+38601483	272	302	programmed cell death ligand 1	Gene	29126
+38601483	304	309	PD-L1	Gene	29126
+38601483	384	397	breast cancer	Disease	MESH:D001943
+38601483	454	479	interstitial lung disease	Disease	MESH:D017563
+38601483	481	484	ILD	Disease	MESH:D017563
+38601483	584	587	ILD	Disease	MESH:D017563
+38601483	699	702	ILD	Disease	MESH:D017563
+38601483	786	789	ILD	Disease	MESH:D017563
+38601483	796	810	PD-1 inhibitor	Chemical	-
+38601483	951	956	PD-L1	Gene	29126
+38601483	981	989	patients	Species	9606
+38601483	995	1008	breast cancer	Disease	MESH:D001943
+38601483	1245	1253	patients	Species	9606
+38601483	1272	1277	PD-L1	Gene	29126
+38601483	1308	1311	ILD	Disease	MESH:D017563
+38601483	1346	1354	patients	Species	9606
+38601483	1368	1383	PD-1 inhibitors	Chemical	-
+38601483	1400	1408	patients	Species	9606
+38601483	1508	1511	ILD	Disease	MESH:D017563
+38601483	1526	1534	patients	Species	9606
+38601483	1548	1563	PD-1 inhibitors	Chemical	-
+38601483	1701	1704	ILD	Disease	MESH:D017563
+38601483	1710	1725	PD-1 inhibitors	Chemical	-
+38601483	1949	1952	ILD	Disease	MESH:D017563

@@ -1,0 +1,32 @@
+39620724|t|The predictive role of baseline pulmonary function test in lung carcinoma patients for radiation-induced lung toxicity treated with conformal radiation therapy.
+39620724|a|Radiation-induced lung toxicity (RILT) is a major concern in patients who receive radiation to thorax. The purpose of the study was to evaluate the changes of pulmonary function tests (PFTs) in lung carcinoma patients treated with three-dimensional conformal radiation therapy (3-D CRT) and relation RILT with dosimetric and nondosimetric factors. This was a prospective observational study which included 65 patients of lung carcinoma treated with 3-D CRT. PFTs were assessed before the radiotherapy and at third and sixth month post-radiation therapy. Radiation pneumonitis (RP) was graded according to National Cancer Institute Common Toxicity Criteria (CTCAE) version 4.0. Majority of patients already had poor lung function before commencing the radiotherapy. There was a modest decrease in pulmonary function after radiation therapy with (3-D CRT). Postradiotherapy, at third month, eight patients (12%) and at the sixth month, 16 patients (25%) were observed with Grade II RP. At the third month, the nondosimetric factors, age >65 years (P = 0.027) and pretreatment Diffusion capacity of the Lung for Carbon monoxide (DLCO) 60% (P = 0.03) were significantly related to grade ≥ II Radiation pneumonitis (RP). Among dosimetric factors, mean lung dose ≥20 Gy (P = 0.001) and volume receving 20Gy ≥35% (P = 0.05) were significantly related to grade ≥ II RP. These factors were also related to grade ≥ II RP at the sixth month with a significant P value. There is a progressive decrease in pulmonary function after (3-D CRT) in lung carcinoma patients. The study suggested that the baseline PFT may be utilized for the identification of high-risk patients for RILT before starting the radiotherapy in lung carcinoma.
+39620724	59	73	lung carcinoma	Disease	MESH:D008175
+39620724	74	82	patients	Species	9606
+39620724	87	118	radiation-induced lung toxicity	Disease	MESH:D009381
+39620724	175	206	Radiation-induced lung toxicity	Disease	MESH:D009381
+39620724	208	212	RILT	Disease	MESH:D009381
+39620724	236	244	patients	Species	9606
+39620724	369	383	lung carcinoma	Disease	MESH:D008175
+39620724	384	392	patients	Species	9606
+39620724	475	479	RILT	Disease	MESH:D009381
+39620724	593	601	patients	Species	9606
+39620724	605	619	lung carcinoma	Disease	MESH:D008175
+39620724	738	759	Radiation pneumonitis	Disease	MESH:D017564
+39620724	761	763	RP	Disease	MESH:D017564
+39620724	798	804	Cancer	Disease	MESH:D009369
+39620724	822	830	Toxicity	Disease	MESH:D064420
+39620724	882	890	patients	Species	9606
+39620724	1088	1096	patients	Species	9606
+39620724	1130	1138	patients	Species	9606
+39620724	1173	1175	RP	Disease	MESH:D017564
+39620724	1302	1317	Carbon monoxide	Chemical	MESH:D002248
+39620724	1319	1323	DLCO	Chemical	-
+39620724	1382	1403	Radiation pneumonitis	Disease	MESH:D017564
+39620724	1405	1407	RP	Disease	MESH:D017564
+39620724	1555	1557	RP	Disease	MESH:D017564
+39620724	1606	1608	RP	Disease	MESH:D017564
+39620724	1741	1755	lung carcinoma	Disease	MESH:D008175
+39620724	1756	1764	patients	Species	9606
+39620724	1860	1868	patients	Species	9606
+39620724	1873	1877	RILT	Disease	MESH:D009381
+39620724	1914	1928	lung carcinoma	Disease	MESH:D008175

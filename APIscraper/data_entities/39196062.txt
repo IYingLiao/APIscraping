@@ -1,0 +1,22 @@
+39196062|t|Loss-of-function mutations in Dnmt3a and Tet2 lead to accelerated atherosclerosis and concordant macrophage phenotypes.
+39196062|a|Clonal hematopoiesis of indeterminate potential (CHIP) is defined by the presence of a cancer-associated somatic mutation in white blood cells in the absence of overt hematological malignancy. It arises most commonly from loss-of-function mutations in the epigenetic regulators DNMT3A and TET2. CHIP predisposes to both hematological malignancies and atherosclerotic cardiovascular disease in humans. Here we demonstrate that loss of Dnmt3a in myeloid cells increased murine atherosclerosis to a similar degree as previously seen with loss of Tet2. Loss of Dnmt3a enhanced inflammation in macrophages in vitro and generated a distinct adventitial macrophage population in vivo which merges a resident macrophage profile with an inflammatory cytokine signature. These changes surprisingly phenocopy the effect of loss of Tet2. Our results identify a common pathway promoting heightened innate immune cell activation with loss of either gene, providing a biological basis for the excess atherosclerotic disease burden in carriers of these two most prevalent CHIP mutations.
+39196062	30	36	Dnmt3a	Gene	13435
+39196062	41	45	Tet2	Gene	214133
+39196062	66	81	atherosclerosis	Disease	MESH:D050197
+39196062	120	157	Clonal hematopoiesis of indeterminate	Disease	MESH:C536227
+39196062	207	213	cancer	Disease	MESH:D009369
+39196062	287	311	hematological malignancy	Disease	MESH:D019337
+39196062	398	404	DNMT3A	Gene	1788
+39196062	409	413	TET2	Gene	54790
+39196062	440	466	hematological malignancies	Disease	MESH:D019337
+39196062	471	509	atherosclerotic cardiovascular disease	Disease	MESH:D050197
+39196062	513	519	humans	Species	9606
+39196062	554	560	Dnmt3a	Gene	13435
+39196062	588	594	murine	Species	10090
+39196062	595	610	atherosclerosis	Disease	MESH:D050197
+39196062	663	667	Tet2	Gene	214133
+39196062	677	683	Dnmt3a	Gene	13435
+39196062	693	705	inflammation	Disease	MESH:D007249
+39196062	848	860	inflammatory	Disease	MESH:D007249
+39196062	940	944	Tet2	Gene	214133
+39196062	1105	1128	atherosclerotic disease	Disease	MESH:D050197

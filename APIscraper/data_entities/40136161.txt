@@ -1,0 +1,19 @@
+40136161|t|Time trends in the incidence of cancer in the state of Mato Grosso, Brazil, from 2001 to 2016.
+40136161|a|The scope was to analyze the time-series trend in the incidence of cancer in the health macro-regions of the State of Mato Grosso from 2001 to 2016. It involved an ecological time-series study with data from the Mato Grosso Population-Based Cancer Registry. Age-standardized incidence rates, disaggregated by year, sex, macro-region and type of cancer, were calculated. For men, the trend was increasing for prostate cancer in the state and the Central-Northwest, East, West, and South macro-regions, and for colorectal cancer in the North; and decreasing for stomach cancer in the state and the Central-Northwest and North, for lung cancer in the East, and for esophageal cancer in the Central-Northwest. For women, the trend was increasing for breast cancer in the state from 2009 to 2016, for lung cancer in the state (2008 to 2016) and in the Central-North (2001 to 2016) and South (2007 to 2016) macro-regions; and decreasing for cervical cancer in the state and for all macro-regions, and for stomach cancer in the state and in the Central-Northwest. Colorectal cancer revealed a stable trend for the state and all macro-regions. Cancer surveillance, prevention and control actions should consider regional differences and variations in magnitude of the occurrence of the disease.
+40136161	32	38	cancer	Disease	MESH:D009369
+40136161	162	168	cancer	Disease	MESH:D009369
+40136161	336	342	Cancer	Disease	MESH:D009369
+40136161	440	446	cancer	Disease	MESH:D009369
+40136161	469	472	men	Species	9606
+40136161	503	518	prostate cancer	Disease	MESH:D011471
+40136161	604	621	colorectal cancer	Disease	MESH:D015179
+40136161	655	669	stomach cancer	Disease	MESH:D013274
+40136161	724	735	lung cancer	Disease	MESH:D008175
+40136161	757	774	esophageal cancer	Disease	MESH:D004938
+40136161	805	810	women	Species	9606
+40136161	841	854	breast cancer	Disease	MESH:D001943
+40136161	891	902	lung cancer	Disease	MESH:D008175
+40136161	1030	1045	cervical cancer	Disease	MESH:D002583
+40136161	1094	1108	stomach cancer	Disease	MESH:D013274
+40136161	1152	1169	Colorectal cancer	Disease	MESH:D015179
+40136161	1231	1237	Cancer	Disease	MESH:D009369

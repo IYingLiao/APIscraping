@@ -1,0 +1,21 @@
+38919656|t|Real-World Data on Treatment Outcome of ALK-Positive Non-Small Cell Lung Cancer from an Indian Multicentric Cancer Registry.
+38919656|a|Lalatendu Moharana The Anaplastic lymphoma kinase inhibitors (ALKi) represent the standard of care for metastatic non-small cell lung cancer (NSCLC) patients with EML4-ALK rearrangements. Various ALKi agents are available; however, not all eligible patients receive treatment with them due to various reasons. Given the limited real-world data available in our country, we aimed to assess treatment outcomes through a multicenter collaboration. This retrospective, multi-institutional study was conducted under the Network of Oncology Clinical Trials India and included a total of 67 ALK-positive metastatic lung cancer patients from 10 institutes across India, with a median follow-up of 23 months. In the first line setting, the objective response rate (ORR) with ALKi was 63.6% (crizotinib: 60.7%, ceritinib: 70%, alectinib: 66.6%,
+38919656	40	43	ALK	Gene	238
+38919656	274	282	patients	Species	9606
+38919656	288	292	EML4	Gene	27436
+38919656	293	296	ALK	Gene	238
+38919656	374	382	patients	Species	9606
+38919656	709	712	ALK	Gene	238
+38919656	745	753	patients	Species	9606
+38919656	907	917	crizotinib	Chemical	MESH:D000077547
+38919656	926	935	ceritinib	Chemical	MESH:C586847
+38919656	942	951	alectinib	Chemical	MESH:C582670
+38919656	1248	1258	crizotinib	Chemical	MESH:D000077547
+38919656	1260	1269	alectinib	Chemical	MESH:C582670
+38919656	1275	1284	ceritinib	Chemical	MESH:C586847
+38919656	1339	1347	Patients	Species	9606
+38919656	1728	1736	patients	Species	9606
+38919656	1983	1986	ALK	Gene	238
+38919656	2013	2021	patients	Species	9606
+38919656	2097	2105	patients	Species	9606
+38919656	2175	2183	patients	Species	9606

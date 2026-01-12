@@ -1,0 +1,9 @@
+39516334|t|Developing a risk prediction tool for lung cancer in Kent and Medway, England: cohort study using linked data.
+39516334|a|Lung cancer has the poorest survival due to late diagnosis and there is no universal screening. Hence, early detection is crucial. Our objective was to develop a lung cancer risk prediction tool at a population level. We used a large place-based linked data set from a local health system in southeast England which contained extensive information covering demographic, socioeconomic, lifestyle, health, and care service utilisation. We exploited the power of Machine Learning to derive risk scores using linear regression modelling. Tens of thousands of model runs were undertaken to identify attributes which predicted the risk of lung cancer. Initially, 16 attributes were identified. A final combination of seven attributes was chosen based on the number of cancers detected which formed the Kent & Medway lung cancer risk prediction tool. This was then compared with the criteria used in the wider Targeted Lung Health Checks programme. The prediction tool outperformed by detecting 822 cases compared to 581 by the lung check programme currently in operation. We have demonstrated the useful application of Machine Learning in developing a risk score for lung cancer and discuss its clinical applicability.
+39516334	38	49	lung cancer	Disease	MESH:D008175
+39516334	123	134	Lung cancer	Disease	MESH:D008175
+39516334	285	296	lung cancer	Disease	MESH:D008175
+39516334	765	776	lung cancer	Disease	MESH:D008175
+39516334	903	910	cancers	Disease	MESH:D009369
+39516334	951	962	lung cancer	Disease	MESH:D008175
+39516334	1314	1325	lung cancer	Disease	MESH:D008175

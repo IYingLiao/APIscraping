@@ -1,0 +1,10 @@
+39280063|t|Large-scale exome array summary statistics resources for glycemic traits to aid effector gene prioritization.
+39280063|a|Genome-wide association studies for glycemic traits have identified hundreds of loci associated with these biomarkers of glucose homeostasis. Despite this success, the challenge remains to link variant associations to genes, and underlying biological pathways. To identify coding variant associations which may pinpoint effector genes at both novel and previously established genome-wide association loci, we performed meta-analyses of exome-array studies for four glycemic traits: glycated hemoglobin (HbA1c, up to 144,060 participants), fasting glucose (FG, up to 129,665 participants), fasting insulin (FI, up to 104,140) and 2hr glucose post-oral glucose challenge (2hGlu, up to 57,878). In addition, we performed network and pathway analyses. Single-variant and gene-based association analyses identified coding variant associations at more than 60 genes, which when combined with other datasets may be useful to nominate effector genes. Network and pathway analyses identified pathways related to insulin secretion, zinc transport and fatty acid metabolism. HbA1c associations were strongly enriched in pathways related to blood cell biology. Our results provided novel glycemic trait associations and highlighted pathways implicated in glycemic regulation. Exome-array summary statistic results are being made available to the scientific community to enable further discoveries.
+39280063	243	250	glucose	Chemical	MESH:D005947
+39280063	678	685	glucose	Chemical	MESH:D005947
+39280063	728	735	insulin	Gene	3630
+39280063	764	771	glucose	Chemical	MESH:D005947
+39280063	782	789	glucose	Chemical	MESH:D005947
+39280063	1143	1150	insulin	Gene	3630
+39280063	1162	1166	zinc	Chemical	MESH:D015032
+39280063	1181	1191	fatty acid	Chemical	MESH:D005227

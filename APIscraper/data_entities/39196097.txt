@@ -1,0 +1,20 @@
+39196097|t|Human circulating CD24
+39196097|a|IgMs that inactivate oxidation-specific epitopes (IgM
+39196097	0	5	Human	Species	9606
+39196097	69	80	atherogenic	Disease	MESH:D050197
+39196097	117	133	vascular disease	Disease	MESH:D014652
+39196097	226	231	lipid	Chemical	MESH:D008055
+39196097	264	285	inflammatory diseases	Disease	MESH:D007249
+39196097	310	325	atherosclerosis	Disease	MESH:D050197
+39196097	340	345	human	Species	9606
+39196097	532	536	mice	Species	10090
+39196097	549	552	B27	Gene	56246
+39196097	606	612	humans	Species	9606
+39196097	659	664	human	Species	9606
+39196097	763	767	mice	Species	10090
+39196097	769	773	CD24	Gene	100133941
+39196097	851	856	mouse	Species	10090
+39196097	916	937	vascular inflammation	Disease	MESH:D007249
+39196097	988	991	B27	Gene	56246
+39196097	1018	1026	patients	Species	9606
+39196097	1053	1076	coronary artery disease	Disease	MESH:D003324

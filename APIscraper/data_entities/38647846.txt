@@ -1,0 +1,11 @@
+38647846|t|Cytotoxicity of subcritical water extracts obtained from byproducts generated at commercial pecan shelling operations on cancer cells.
+38647846|a|This study examined potential of the extracts obtained from the byproducts generated at commercial pecan nut-shelling operations in cancer treatment. The subcritical water extracts obtained from two varieties, Native and Pawnee, were analyzed for their phenolic contents and compositions. Effects of the extracts on viability and IC50 of the human cell lines representing a broad range of cancer types, cervical, lung, skin, breast, colon and prostate cancers, were investigated. Although the effect of the temperature on the phenolic contents and compositions of the extracts was not statistically significant, the influence of the variety was extensive. The pecan shell extracts were not cytotoxic to the healthy cell line Vero in the concentration range examined. Some of the pecan shell extracts had greater efficay than Doxorubicin, a drug used in cancer chemotherapy, in reducing cancer cell viability. This study is novel and practical implications of the data generated in this study are noteworthy, because this is the first report on the beneficial effects of subcritical water extracts obtained from pecan shelling industry byproducts on a broad range of cancer cell lines. It is likely that the experimental data presented in this study will support and encourage future research on the biological pathways involved in the interactions of the cancer cells and the extracts. The findings of this study will facilitate research on downstream processing and purification of the crude extracts exhibiting high cancer cell cytotoxcity, potentially improving the final product efficacy and lead to commercial applications.
+38647846	28	33	water	Chemical	MESH:D014867
+38647846	301	306	water	Chemical	MESH:D014867
+38647846	388	396	phenolic	Chemical	-
+38647846	477	482	human	Species	9606
+38647846	661	669	phenolic	Chemical	-
+38647846	795	806	pecan shell	Chemical	-
+38647846	914	925	pecan shell	Chemical	-
+38647846	960	971	Doxorubicin	Chemical	MESH:D004317
+38647846	1217	1222	water	Chemical	MESH:D014867

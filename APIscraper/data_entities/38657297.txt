@@ -1,0 +1,12 @@
+38657297|t|Diagnostic and Therapeutic Role of Electrocautery Snare Use in Endobronchial Polypoid Lesions.
+38657297|a|Electrocautery with a snare probe offers a tool for the treatment of endobronchial polyps. The aim of this study was to demonstrate the efficacy of the snare probe in patients undergoing rigid bronchoscopy due to central airway obstruction. This retrospective descriptive study included patients who underwent rigid bronchoscopy with an electrocautery snare probe for the diagnosis and/or treatment of endobronchial polyps in an interventional pulmonology unit. The mean age of the 47 patients (38 men) with endobronchial polypoid lesions was 61.5 years. Six lesions (12.8%) were located in the trachea, 6 (12.8%) in the right main bronchus, 11 (23.4%) in the left main bronchus, and 24 (51.1%) in the lobar bronchi. Twenty-eight lesions (59.5%) were malignant. Prior to the procedure, 6 (12.8%) patients had grade 1 obstruction, 6 (12.8%) had grade 2 obstruction, 15 (31.9%) had grade 3 obstruction, and 20 (42.6%) had grade 4 obstruction. In terms of airway obstruction after the procedure, grade 1 was present in 46 (97.9%) patients and grade 2 was present in 1 (2.1%) patient. No major complication developed in 93.6% of the patients. During a mean follow-up period of 48 months, 85.1% of the patients did not experience recurrence. Our results demonstrate that the snare probe can be used to effectively and reliably establish airway patency in patients with central airway obstruction due to endobronchial polypoid lesions.
+38657297	276	284	patients	Species	9606
+38657297	405	413	patients	Species	9606
+38657297	612	620	patients	Species	9606
+38657297	625	628	men	Species	9606
+38657297	923	931	patients	Species	9606
+38657297	1154	1162	patients	Species	9606
+38657297	1199	1206	patient	Species	9606
+38657297	1256	1264	patients	Species	9606
+38657297	1324	1332	patients	Species	9606
+38657297	1489	1497	patients	Species	9606

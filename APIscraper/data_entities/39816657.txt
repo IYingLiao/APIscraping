@@ -1,0 +1,14 @@
+39816657|t|Focusing on antimicrobial resistant infections -are we missing the forest for the trees and the patients for pathogens?
+39816657|a|Antimicrobial resistance (AMR) is a challenge because it is associated with worse patient outcomes. To solve the problem will take development of interventions and policies which improve patient outcomes by prolonging survival, improving patient symptoms, function and quality of life. Logically, we should look to focusing resources in areas that would have the greatest impact on public health. AMR takes the approach of focusing on individual pathogens and "pathogen-focused" development. However, evaluating overall infections and their impact on patient outcomes reveals that 17 of 18 infection deaths are associated with susceptible pathogens. Here we discuss recentering on patients and patient outcomes instead of pathogens, and propose six suggestions on how a patient focus impacts areas and incentives for clinical research.
+39816657	36	46	infections	Disease	MESH:D007239
+39816657	96	104	patients	Species	9606
+39816657	202	209	patient	Species	9606
+39816657	307	314	patient	Species	9606
+39816657	358	365	patient	Species	9606
+39816657	640	650	infections	Disease	MESH:D007239
+39816657	671	678	patient	Species	9606
+39816657	710	719	infection	Disease	MESH:D007239
+39816657	720	726	deaths	Disease	MESH:D003643
+39816657	801	809	patients	Species	9606
+39816657	814	821	patient	Species	9606
+39816657	890	897	patient	Species	9606

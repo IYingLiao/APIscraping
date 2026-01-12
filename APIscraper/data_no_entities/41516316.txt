@@ -1,0 +1,2 @@
+41516316|t|Lineage Plasticity and Histologic Transformation in EGFR-TKI Resistant Lung Cancer.
+41516316|a|Lineage plasticity, the ability of cancer cells to alter their differentiated state through transcriptional and epigenetic reprogramming, has emerged as a key mechanism of therapeutic resistance across cancers. This adaptive process can manifest in multiple ways, including epithelial-mesenchymal transition, acquisition of stem-like features, and histological transformation, the most striking and clinically apparent example. In

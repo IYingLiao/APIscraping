@@ -1,0 +1,20 @@
+39734894|t|Docetaxel-induced lung injury.
+39734894|a|Docetaxel is a chemotherapeutic agent commonly used against breast cancer, nonsmall cell lung cancer, gastric, prostate, head and neck cancer. Docetaxel- or taxane-induced interstitial lung disease (ILD) remains a relatively rare reported adverse event. Although rare, this complication remains an important event to identify and it carries a high mortality. We reported the case series of three patients who had pulmonary toxicity after docetaxel administration. Although literature has described patients progressing to respiratory failure and intubation, our patients responded well to steroid treatment and discontinued docetaxel administration.
+39734894	0	9	Docetaxel	Chemical	MESH:D000077143
+39734894	18	29	lung injury	Disease	MESH:D055370
+39734894	31	40	Docetaxel	Chemical	MESH:D000077143
+39734894	91	104	breast cancer	Disease	MESH:D001943
+39734894	106	131	nonsmall cell lung cancer	Disease	MESH:D002289
+39734894	133	172	gastric, prostate, head and neck cancer	Disease	MESH:D006258
+39734894	174	183	Docetaxel	Chemical	MESH:D000077143
+39734894	188	194	taxane	Chemical	MESH:C080625
+39734894	203	228	interstitial lung disease	Disease	MESH:D017563
+39734894	230	233	ILD	Disease	MESH:D017563
+39734894	427	435	patients	Species	9606
+39734894	444	462	pulmonary toxicity	Disease	MESH:D008171
+39734894	469	478	docetaxel	Chemical	MESH:D000077143
+39734894	529	537	patients	Species	9606
+39734894	553	572	respiratory failure	Disease	MESH:D012131
+39734894	593	601	patients	Species	9606
+39734894	620	627	steroid	Chemical	MESH:D013256
+39734894	655	664	docetaxel	Chemical	MESH:D000077143

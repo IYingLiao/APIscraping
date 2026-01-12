@@ -1,0 +1,10 @@
+38756165|t|Treatment pattern and outcomes of leptomeningeal carcinomatosis in India - a retrospective study.
+38756165|a|Leptomeningeal carcinomatosis (LMC), the metastatic spread of cancer to the leptomeninges, is a rare complication and has a dismal prognosis. Due to limited data available on LMC from India, we conducted a country-wise audit of LMC across 15 centres in India. The current study conducted in 2020, was a retrospective, multicentric audit of adult patients (aged ≥18 years) with diagnosis of LMC and who received treatment during 2010-2020. Baseline characteristics, details related to previous treatments, cancer sites, LMC diagnosis, treatment pattern and overall survival (OS) were collected. Descriptive statistics were performed, and Kaplan Meier analysis was performed for the estimation of OS. Among the patients diagnosed with LMC (n = 84), diagnosis was confirmed in 52 patients (61.9%) and 'probable' in 32 (38.1%) patients. The three most common cause of malignancy were non-small cell lung cancer (NSCLC), breast cancer and gastrointestinal cancer with 45 (53.6%), 22 (26.1%) and 9 (10.7%) patients respectively. Intrathecal therapy was offered in 33 patients (39.3%). The most common intrathecal agent was methotrexate in 23 patients (27.4%). The median OS was 90 days (95% CI 48-128). Among tested variables, intrathecal therapy administration (hazard ratio [HR] = 0.36, 95% CI 0.19-0.68) and primary in lung (HR = 0.43, 95% CI 0.23-0.83) had a favourable impact on OS. Prognosis with leptomeningeal carcinomatosis is poor with a significant burden of morbidity and mortality in India. This data aims to highlight the current outcomes and facilitate further research on LMC. None.
+38756165	465	473	patients	Species	9606
+38756165	839	847	patients	Species	9606
+38756165	907	915	patients	Species	9606
+38756165	953	961	patients	Species	9606
+38756165	1130	1138	patients	Species	9606
+38756165	1191	1199	patients	Species	9606
+38756165	1247	1259	methotrexate	Chemical	MESH:D008727
+38756165	1266	1274	patients	Species	9606

@@ -1,0 +1,18 @@
+38911570|t|Twenty-five years with HER2 targeted therapy.
+38911570|a|The development of trastuzumab is among the most significant cancer drug development projects in the 20th century. Trastuzumab became a gamechanger for the treatment of human epidermal growth receptor 2 (HER2) positive breast cancer, with a significant positive impact on disease recurrence and survival. The development of trastuzumab was the beginning of a new era of cancer drug development, which showed us the importance of understanding the molecular pathophysiology and drug mechanism of action. The drug-diagnostic codevelopment model, in which the drug is developed in parallel with a predictive biomarker assay, has had a significant impact on today's cancer drug development, and we are indebted to trastuzumab when it comes to the clinical enrichment trial design. Trastuzumab is not the only drug developed to target the HER2 protein. Over the past few decades, several new HER2 targeted therapies have been developed, including small-molecule tyrosine kinase inhibitors (TKI), monoclonal antibodies, and antibody-drug conjugates (ADC). In particular, the ADC trastuzumab deruxtecan seems to pave new avenues when it comes to HER2 targeted treatment not only for breast cancer, but also for gastric cancer and non-small cell lung cancer. With the development of trastuzumab as a reference point, this article will provide a brief summary of the efficacy of HER2 targeted therapy, including testing for HER2 positivity, as it has evolved over the past 25 years.
+38911570	23	27	HER2	Gene	2064
+38911570	65	76	trastuzumab	Chemical	MESH:D000068878
+38911570	161	172	Trastuzumab	Chemical	MESH:D000068878
+38911570	215	248	human epidermal growth receptor 2	Gene	2064
+38911570	250	254	HER2	Gene	2064
+38911570	370	381	trastuzumab	Chemical	MESH:D000068878
+38911570	756	767	trastuzumab	Chemical	MESH:D000068878
+38911570	823	834	Trastuzumab	Chemical	MESH:D000068878
+38911570	880	884	HER2	Gene	2064
+38911570	933	937	HER2	Gene	2064
+38911570	1003	1018	tyrosine kinase	Gene	7294
+38911570	1119	1130	trastuzumab	Chemical	MESH:D000068878
+38911570	1185	1189	HER2	Gene	2064
+38911570	1321	1332	trastuzumab	Chemical	MESH:D000068878
+38911570	1416	1420	HER2	Gene	2064
+38911570	1461	1465	HER2	Gene	2064

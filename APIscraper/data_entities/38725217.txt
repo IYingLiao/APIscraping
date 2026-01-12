@@ -1,0 +1,4 @@
+38725217|t|Giant Renal Angiomyolipomas and Pulmonary Lymphangioleiomyomatosis: Follow-up Report after More than a Decade.
+38725217|a|Renal angiomyolipomas (AMLs) and pulmonary lymphangioleiomyomatosis (LAM) are two major presentations of tuberous sclerosis (TS), an autosomal dominant multisystem disorder. Renal AMLs can lead to life-threatening complications like hemorrhage and cause progressive renal failure requiring dialysis and kidney transplant. mTOR inhibitors showed promising results in TS patients with renal AMLs, LAM, and subependymal giant cell astrocytomas. This case report is a follow-up of a patient we reported in 2010 with giant AMLs and LAM who required an emergency nephrectomy for massive hemorrhage from giant left-sided AMLs.
+38725217	480	488	patients	Species	9606
+38725217	590	597	patient	Species	9606

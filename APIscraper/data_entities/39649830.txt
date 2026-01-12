@@ -1,0 +1,10 @@
+39649830|t|A retrospective bilateral breast proton pencil beam scanning and photon volumetric arc therapy planning comparison.
+39649830|a|Advanced bilateral breast cancers with local and regional nodal involvement are rare and challenging to plan due to conflicting demands of conformality, uniformity and sparing of organs at risk such as heart and lungs. Pencil beam scanning (PBS) protons have been shown to provide improved organ at risk (OAR) sparing, conformality and homogeneity compared to photon techniques including three-dimensional conformal radiotherapy, intensity modulated radiation therapy (IMRT), volumetric arc therapy (VMAT), and tomotherapy. We performed a blinded comparison between VMAT and PBS plans and extend this comparison with a case study of a patient win expander  In this case-controlled study, five bilateral breast patients' clinical proton plan datasets were anonymized and replanned using VMAT. Additionally, for one patient with bilateral expanders, we compared two PBS planning techniques that are used clinically. For the similar target volume coverage, significant differences were found for heart and lung sparing, particularly for lower isodoses. For instance, mean lung V5 was 96.7%  PBS provides better sparing of heart and lungs compared to VMAT in whole breast, chest wall and expander patients. Further study with more patients is required to validate these conclusions.
+39649830	147	161	breast cancers	Disease	MESH:D001943
+39649830	763	770	patient	Species	9606
+39649830	875	883	patients	Species	9606
+39649830	979	986	patient	Species	9606
+39649830	1368	1375	patient	Species	9606
+39649830	1444	1452	patients	Species	9606
+39649830	1934	1942	patients	Species	9606
+39649830	1968	1976	patients	Species	9606

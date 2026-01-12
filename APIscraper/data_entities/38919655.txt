@@ -1,0 +1,14 @@
+38919655|t|Role of ALK Inhibitors in Anaplastic Large Cell Lymphoma-Experience from an Indian Center.
+38919655|a|Perumal Kalaiyarasi JayachandranAnaplastic large cell lymphoma (ALCL) is the second most common type of peripheral T cell lymphoma and an aggressive mature T cell lymphoma. About 50 to 70% of systemic ALCLs are anaplastic lymphoma kinase positive (ALK +), the proportion even higher in the pediatric population. The 5-year survival after chemotherapy is around 70 to 80%. But there is a subgroup of ALK+ ALCL patients who are refractory to chemotherapy. Brentuximab vedotin is an approved agent for such patients. The activity of ALK inhibitors in ALK+ non-small cell lung cancer is well known and has been approved for use. The efficacy and safety of ALK inhibitors in ALK + ALCL are largely under-reported. Here we have reported our experience in the use of ALK inhibitors in relapsed refractory ALK+ ALCL.
+38919655	8	11	ALK	Gene	238
+38919655	339	342	ALK	Gene	238
+38919655	490	493	ALK	Gene	238
+38919655	500	508	patients	Species	9606
+38919655	545	564	Brentuximab vedotin	Chemical	MESH:D000079963
+38919655	595	603	patients	Species	9606
+38919655	621	624	ALK	Gene	238
+38919655	639	642	ALK	Gene	238
+38919655	743	746	ALK	Gene	238
+38919655	761	764	ALK	Gene	238
+38919655	851	854	ALK	Gene	238
+38919655	889	892	ALK	Gene	238

@@ -1,0 +1,8 @@
+38751487|t|Reporting breast density on chest computed tomography.
+38751487|a|Women are encouraged to have a yearly mammogram and in addition to screening for breast cancer, the radiologist reports the patient's breast density. High breast density increases a woman's risk of developing breast cancer. The number of chest computed tomography (CT) scans performed each year is increasing. Chest CT scans for lung cancer screening in high-risk patients are the standard of care. Important additional findings can be identified on these exams including coronary artery calcifications, thyroid nodules, and breast density. Our previous research has shown that breast density can be reliably graded on chest CT and is comparable to mammographic grading. However, the inter-reader agreement was higher for chest CT. It is important that thoracic radiologists include the grading of breast density in their chest CT reports. According to mammography literature, this information has proven to be helpful for early detection of breast cancer. Federal legislation recommends notifying both providers and patients about breast density on mammography and so it follows that if we see the same information on chest CT, we should report it so that at the very least the clinician can encourage their patient to have a routine mammogram.
+38751487	55	60	Women	Species	9606
+38751487	179	186	patient	Species	9606
+38751487	237	242	woman	Species	9606
+38751487	419	427	patients	Species	9606
+38751487	1072	1080	patients	Species	9606
+38751487	1264	1271	patient	Species	9606

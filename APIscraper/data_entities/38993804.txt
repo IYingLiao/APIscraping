@@ -1,0 +1,5 @@
+38993804|t|Design and Realization of Lung Organoid Cultures for COVID-19 Applications.
+38993804|a|Coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has been spreading globally and threatening public health. Advanced
+38993804	127	174	severe acute respiratory syndrome coronavirus 2	Species	2697049
+38993804	176	186	SARS-CoV-2	Species	2697049
+38993804	657	662	human	Species	9606

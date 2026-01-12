@@ -1,0 +1,33 @@
+39188299|t|Highly aqueously stable C
+39188299|a|Fullerenes are a class of carbon nanomaterials that find a wide range of applications in biomedical fields, especially for photodynamic cancer therapy because of its photosensitive effect. However, hydrophobic fullerenes can only be dispersed in organic solvents which hinders their biomedical applications. Here, we report a facile method to prepare highly water-dispersible fullerene (C
+39188299	24	35	C60-polymer	Chemical	-
+39188299	101	107	cancer	Disease	MESH:D009369
+39188299	119	129	Fullerenes	Chemical	MESH:D037741
+39188299	145	165	carbon nanomaterials	Chemical	-
+39188299	255	261	cancer	Disease	MESH:D009369
+39188299	329	339	fullerenes	Chemical	MESH:D037741
+39188299	477	482	water	Chemical	MESH:D014867
+39188299	495	504	fullerene	Chemical	MESH:D037741
+39188299	506	509	C60	Chemical	MESH:C069837
+39188299	511	518	polymer	Chemical	MESH:D011108
+39188299	631	676	polyethylene glycol methyl ether methacrylate	Chemical	MESH:C524499
+39188299	681	707	2-aminoethylmethacrylamide	Chemical	-
+39188299	746	749	C60	Chemical	MESH:C069837
+39188299	825	830	amine	Chemical	MESH:D000588
+39188299	855	862	polymer	Chemical	MESH:D011108
+39188299	867	873	carbon	Chemical	MESH:D002244
+39188299	874	880	carbon	Chemical	MESH:D002244
+39188299	899	902	C60	Chemical	MESH:C069837
+39188299	933	944	C60-polymer	Chemical	-
+39188299	1002	1007	water	Chemical	MESH:D014867
+39188299	1015	1018	C60	Chemical	MESH:C069837
+39188299	1117	1120	C60	Chemical	MESH:C069837
+39188299	1161	1164	C60	Chemical	MESH:C069837
+39188299	1178	1189	C60-polymer	Chemical	-
+39188299	1251	1256	human	Species	9606
+39188299	1257	1268	lung cancer	Disease	MESH:D008175
+39188299	1276	1280	A549	CellLine	CVCL:0023
+39188299	1394	1406	cytotoxicity	Disease	MESH:D064420
+39188299	1474	1479	water	Chemical	MESH:D014867
+39188299	1492	1503	C60-polymer	Chemical	-
+39188299	1580	1590	fullerenes	Chemical	MESH:D037741

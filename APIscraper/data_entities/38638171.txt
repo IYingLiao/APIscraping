@@ -1,0 +1,12 @@
+38638171|t|Reconsidering gas as clean energy: Switching to electricity for household cooking to reduce NO
+38638171|a|Nitrogen dioxide (NO
+38638171	92	95	NO2	Chemical	MESH:D009585
+38638171	123	139	Nitrogen dioxide	Chemical	MESH:D009585
+38638171	141	144	NO2	Chemical	MESH:D009585
+38638171	335	338	NO2	Chemical	MESH:D009585
+38638171	495	498	NO2	Chemical	MESH:D009585
+38638171	567	578	lung cancer	Disease	MESH:D008175
+38638171	580	617	chronic obstructive pulmonary disease	Disease	MESH:D029424
+38638171	623	640	diabetes mellitus	Disease	MESH:D003920
+38638171	767	770	NO2	Chemical	MESH:D009585
+38638171	1148	1151	NO2	Chemical	MESH:D009585

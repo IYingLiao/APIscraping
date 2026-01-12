@@ -1,0 +1,19 @@
+39045041|t|To study the utility of COX-2 as immunohistochemical prognostic marker in comparison to various histopathological parameters and TNM staging in breast carcinoma: an observational, cross-sectional study protocol.
+39045041|a|Breast cancer is the most prevalent cancer among women worldwide and is a well-known cause for cancer mortality in females. COX-2 (cyclooxygenase) plays a vital role in development of some human cancers such as lung, colon and breast. It is a potent enzyme that is important for the conversion of arachidonic acid into prostaglandins. These prostaglandins mediate cellular proliferation, apoptosis and angiogenesis which contributes to carcinogenesis. Overexpression of COX-2 has been detected in several malignancies including breast cancer. COX-2 overexpression is regarded as a poor prognostic marker of breast cancer.The present study will aim to study the immunohistochemical expression of COX-2 in breast cancer and compare it with known histopathological parameters thus assessing its prognostic value. This will be an observational study conducted in the Department of Pathology, JNMC, Wardha (Sawangi). Radical mastectomy specimens will be studied for COX-2 expression by immunohistochemistry in patients diagnosed with breast carcinoma. COX-2 expression will be quantified as immunohistochemical score and results will be correlated with various histopathological parameters. The expected result of our study will suggest an association of COX-2 expression to the factors associated with poor prognosis in breast carcinoma. A positive correlation is expected between larger tumor size, positive lymph node status, higher T stage and N stage and lymphovascular invasion. Conclusions will be drawn from the obtained results of the immunohistochemical study by using COX-2- for detection of overexpression of COX-2 when evaluated with TNM staging, histological grading and molecular types of breast cancer.
+39045041	24	29	COX-2	Gene	4513
+39045041	129	132	TNM	Gene	10178
+39045041	273	278	women	Species	9606
+39045041	348	353	COX-2	Gene	4513
+39045041	521	537	arachidonic acid	Chemical	MESH:D016718
+39045041	543	557	prostaglandins	Chemical	MESH:D011453
+39045041	565	579	prostaglandins	Chemical	MESH:D011453
+39045041	694	699	COX-2	Gene	4513
+39045041	767	772	COX-2	Gene	4513
+39045041	919	924	COX-2	Gene	4513
+39045041	1194	1199	COX-2	Gene	4513
+39045041	1238	1246	patients	Species	9606
+39045041	1280	1285	COX-2	Gene	4513
+39045041	1492	1497	COX-2	Gene	4513
+39045041	1829	1834	COX-2	Gene	4513
+39045041	1871	1876	COX-2	Gene	4513
+39045041	1897	1900	TNM	Gene	10178

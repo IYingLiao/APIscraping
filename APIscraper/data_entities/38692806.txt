@@ -1,0 +1,5 @@
+38692806|t|Interstitial Lung Abnormalities.
+38692806|a|Interstitial lung abnormalities (ILA) is a radiographic term, which has recently undergone clarification of definition with creation of 3 subtypes. ILA is defined as incidental identification of computed tomography abnormalities in a patient who is not suspected of having an interstitial lung disease (ILD). A subset of ILA may progress to clinically significant ILD and is associated with morbidities not related to progression such as an increased incidence of sepsis-related acute respiratory distress syndrome (ARDS). ILA has been associated with an increased incidence of treatment-related complications in patients with lung cancer. Information on corresponding histology is limited; knowledge gaps exist concerning optimal patient management.
+38692806	267	274	patient	Species	9606
+38692806	646	654	patients	Species	9606
+38692806	764	771	patient	Species	9606

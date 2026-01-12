@@ -1,0 +1,21 @@
+38665783|t|Expression patterns of m
+38665783|a|Cancer is a complex disease that involves both genetic and epigenetic factors. While emerging evidence clearly suggests that changes in epitranscriptomics play a crucial role in cancer pathogenesis, a comprehensive understanding of the writers, erasers, and readers of epitranscriptomic processes, particularly under apoptotic conditions remains lacking. The aim of this study was to uncover the changes in the expression of m Initially, we quantified the abundance of m Overall, treatment with cisplatin increased the abundance of m These results suggest that the differential response of cancer cells to apoptotic inducers may be partially attributed to the expression of m
+38665783	23	26	m6A	Chemical	MESH:C005955
+38665783	92	97	human	Species	9606
+38665783	558	561	m6A	Chemical	MESH:C005955
+38665783	702	705	m6A	Chemical	MESH:C005955
+38665783	904	913	cisplatin	Chemical	MESH:D002945
+38665783	918	945	tumor necrosis factor-alpha	Gene	7124
+38665783	947	956	TNF-alpha	Gene	7124
+38665783	1116	1119	m6A	Chemical	MESH:C005955
+38665783	1254	1263	cisplatin	Chemical	MESH:D002945
+38665783	1291	1294	m6A	Chemical	MESH:C005955
+38665783	1314	1323	TNF-alpha	Gene	7124
+38665783	1424	1433	cisplatin	Chemical	MESH:D002945
+38665783	1461	1470	TNF-alpha	Gene	7124
+38665783	1526	1533	METTL14	Gene	57721
+38665783	1538	1541	FTO	Gene	79068
+38665783	1569	1578	cisplatin	Chemical	MESH:D002945
+38665783	1626	1633	IGF2BP2	Gene	10644
+38665783	1638	1645	IGF2BP3	Gene	10643
+38665783	1807	1810	m6A	Chemical	MESH:C005955

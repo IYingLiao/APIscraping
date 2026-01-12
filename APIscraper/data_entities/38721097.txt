@@ -1,0 +1,36 @@
+38721097|t|Comparison of Efficacy and Safety of a Bevacizumab Biosimilar, in Combination with Chemotherapies, in Nonresectable Metastatic Colorectal Cancer and in Advanced Nonsquamous Non-Small Cell Lung Cancer: A Randomized, Double-Blind, Phase III Study.
+38721097|a|Ranjith K.The objective of this study was to compare the efficacy, safety, pharmacokinetics, and immunogenicity of a proposed bevacizumab biosimilar (DRL_BZ) with the innovator Avastin (reference medicinal product [RMP]) in patients with nonresectable metastatic colorectal cancer (mCRC) over a period of 9 months and advanced nonsquamous non-small cell lung cancer (NSCLC) over 6 months. The study was planned as a randomized, double-blind trial. In part A, a total of 117 mCRC patients were intended to receive 5 mg/kg of bevacizumab every 2 weeks along with mFOLFOX6 chemotherapy for a maximum of 18 cycles. In part B, 60 NSCLC patients were to receive 15 mg/kg of bevacizumab every 3 weeks along with pemetrexed and carboplatin for the initial four cycles, followed by pemetrexed for another four cycles. The primary endpoint was the progression-free survival rate at 6 months (PFS6) in both subparts. The anticipated sample size was 106 evaluable mCRC patients to achieve 85% statistical power for concluding noninferiority with a margin of half the difference (18.8%) between DRL_BZ and Avastin, along with a pilot study involving 60 evaluable NSCLC patients. Safety comparison included assessing adverse events (AEs), infusion reactions, and lab abnormalities. Immunogenicity comparison involved the incidence of antidrug antibodies (ADAs) and neutralizing antibodies (NAbs). Pharmacokinetic comparison was planned after the first and fourth dosing cycles of treatment in 24 NSCLC patients. The PFS6 for mCRC patients treated with DRL_BZ and RMP was 57.8% and 50% respectively, with a difference in efficacy of 7.8 (-8.7, 23.7). The PFS9 was 31.1% and 22.9%, with a difference of 8.2% (-6.9%, 22.9%). The objective response rate (ORR) for DRL_BZ and RMP was 28.8% and 22.4%, while the disease control rate (DCR) was 44.2% and 37.9% respectively. For NSCLC patients, the PFS6 was 44% and 45%, showing a difference of -1.0 (-4.2, 22.1). The ORR was 41.4% and 48.1%, and the DCR was 62.1% and 63%. The frequency, type, and severity of AEs were similar in both indications. Blood levels during the first and fourth dosing cycles exhibited comparable values. All NSCLC patients tested negative for ADA, while no mCRC patients on DRL_BZ tested positive for ADA. Low incidences of ADA (8%) and NAbs (4.0%) were reported in patients on RMP. Overall, the efficacy, safety, immunogenicity, and pharmacokinetic parameters of DRL_BZ and RMP were found to be comparable. Clinical Trial Registration For BZ-01-002: CTRI/2016/01/006481.
+38721097	39	50	Bevacizumab	Chemical	MESH:D000068258
+38721097	372	383	bevacizumab	Chemical	MESH:D000068258
+38721097	396	402	DRL_BZ	Chemical	-
+38721097	423	430	Avastin	Chemical	MESH:D000068258
+38721097	461	464	RMP	Chemical	-
+38721097	470	478	patients	Species	9606
+38721097	725	733	patients	Species	9606
+38721097	770	781	bevacizumab	Chemical	MESH:D000068258
+38721097	807	815	mFOLFOX6	Chemical	-
+38721097	877	885	patients	Species	9606
+38721097	914	925	bevacizumab	Chemical	MESH:D000068258
+38721097	951	961	pemetrexed	Chemical	MESH:D000068437
+38721097	966	977	carboplatin	Chemical	MESH:D016190
+38721097	1019	1029	pemetrexed	Chemical	MESH:D000068437
+38721097	1203	1211	patients	Species	9606
+38721097	1328	1334	DRL_BZ	Chemical	-
+38721097	1339	1346	Avastin	Chemical	MESH:D000068258
+38721097	1402	1410	patients	Species	9606
+38721097	1734	1742	patients	Species	9606
+38721097	1762	1770	patients	Species	9606
+38721097	1784	1790	DRL_BZ	Chemical	-
+38721097	1795	1798	RMP	Chemical	-
+38721097	1992	1998	DRL_BZ	Chemical	-
+38721097	2003	2006	RMP	Chemical	-
+38721097	2109	2117	patients	Species	9606
+38721097	2417	2425	patients	Species	9606
+38721097	2446	2449	ADA	Chemical	-
+38721097	2465	2473	patients	Species	9606
+38721097	2477	2483	DRL_BZ	Chemical	-
+38721097	2504	2507	ADA	Chemical	-
+38721097	2569	2577	patients	Species	9606
+38721097	2581	2584	RMP	Chemical	-
+38721097	2667	2673	DRL_BZ	Chemical	-
+38721097	2678	2681	RMP	Chemical	-

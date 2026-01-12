@@ -1,0 +1,13 @@
+39027153|t|Impact of PD-1/PD-L1 inhibitors on survival in stage III non-small-cell lung cancer: A systematic review.
+39027153|a|Lung cancer is the leading cause of cancer-related death, and non-small-cell lung cancer (NSCLC) is the predominant subtype. Programmed death 1 (PD-1) and programmed death-ligand 1 (PD-L1) inhibitors are widely used to treat stage IV NSCLC. This study systematically reviewed the literature to clarify the impact of PD-1/PD-L1 inhibitor treatment on the survival of patients with stage III NSCLC. Randomized phase III clinical trials of PD-1/PD-L1 inhibitors administered to patients with stage III NSCLC that were written in English and published between November 2012 and November 2022 were eligible for review. The sources of information were the MEDLINE database (last consulted on December 26, 2022), ScienceDirect website (last consulted on December 26, 2022), and CENTRAL register (last consulted on December 27, 2022). The outcomes of interest were overall survival (OS), progression-free survival (PFS), disease-free survival (DFS), and event-free survival (EFS). Risk of bias assessments were performed according to the Cochrane Handbook for Systematic Reviews of Interventions version 5.1.0. The findings have been assessed for certainty according to the Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) guidelines. Fourteen eligible studies and 2788 participants were included in the review. The key characteristics used to group the participants were disease histology, percentage of PD-L1 expression in cancer cells, and timeline of therapy. OS and PFS were improved (risk ratio [RR]: 0.85; 95% confidence interval [CI]: 0.75-0.96 and RR: 0.75; 95% CI: 0.70-0.86, respectively) based on the use of PD-L1 inhibitors after chemoradiation and OS was improved using first-line PD-1 inhibitors plus chemotherapy in non-squamous NSCLC (RR: 0.40; 95% CI: 0.17-0.95), with the GRADE results indicating moderate quality of evidence. This review highlights the OS and PFS benefits of PD-L1 inhibitors in stage III NSCLC when used after chemoradiation and OS benefits of first-line PD-1 inhibitors added to chemotherapy in non-squamous stage III disease.
+39027153	10	14	PD-1	Gene	5133
+39027153	243	261	Programmed death 1	Gene	5133
+39027153	263	267	PD-1	Gene	5133
+39027153	273	298	programmed death-ligand 1	Gene	29126
+39027153	300	305	PD-L1	Gene	29126
+39027153	434	438	PD-1	Gene	5133
+39027153	439	444	PD-L1	Gene	29126
+39027153	484	492	patients	Species	9606
+39027153	564	568	PD-1	Gene	5133
+39027153	602	610	patients	Species	9606
+39027153	1561	1566	PD-L1	Gene	29126

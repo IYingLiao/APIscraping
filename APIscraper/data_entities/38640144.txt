@@ -1,0 +1,12 @@
+38640144|t|Utilizing Deep Learning and Computed Tomography to Determine Pulmonary Nodule Activity in Patients With Nontuberculous Mycobacterial-Lung Disease.
+38640144|a|To develop and evaluate a deep convolutional neural network (DCNN) model for the classification of acute and chronic lung nodules from nontuberculous mycobacterial-lung disease (NTM-LD) on computed tomography (CT). We collected a data set of 650 nodules (316 acute and 334 chronic) from the CT scans of 110 patients with NTM-LD. The data set was divided into training, validation, and test sets in a ratio of 4:1:1. Bounding boxes were used to crop the 2D CT images down to the area of interest. A DCNN model was built using 11 convolutional layers and trained on these images. The performance of the model was evaluated on the hold-out test set and compared with that of 3 radiologists who independently reviewed the images. The DCNN model achieved an area under the receiver operating characteristic curve of 0.806 for differentiating acute and chronic NTM-LD nodules, corresponding to sensitivity, specificity, and accuracy of 76%, 68%, and 72%, respectively. The performance of the model was comparable to that of the 3 radiologists, who had area under the receiver operating characteristic curve, sensitivity, specificity, and accuracy of 0.693 to 0.771, 61% to 82%, 59% to 73%, and 60% to 73%, respectively. This study demonstrated the feasibility of using a DCNN model for the classification of the activity of NTM-LD nodules on chest CT. The model performance was comparable to that of radiologists. This approach can potentially and efficiently improve the diagnosis and management of NTM-LD.
+38640144	90	98	Patients	Species	9606
+38640144	104	145	Nontuberculous Mycobacterial-Lung Disease	Disease	MESH:D008171
+38640144	255	285	acute and chronic lung nodules	Disease	MESH:D055371
+38640144	291	332	nontuberculous mycobacterial-lung disease	Disease	MESH:D008171
+38640144	334	340	NTM-LD	Disease	MESH:D008171
+38640144	486	494	patients	Species	9606
+38640144	500	506	NTM-LD	Disease	MESH:D008171
+38640144	1043	1057	NTM-LD nodules	Disease	MESH:D008171
+38640144	1519	1533	NTM-LD nodules	Disease	MESH:D008171
+38640144	1695	1701	NTM-LD	Disease	MESH:D008171

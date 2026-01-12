@@ -1,0 +1,6 @@
+38692812|t|Microsatellite Instability, Mismatch Repair, and Tumor Mutation Burden in Lung Cancer.
+38692812|a|Since US Food and Drug Administration approval of programmed death ligand 1 (PD-L1) as the first companion diagnostic for immune checkpoint inhibitors (ICIs) in non-small cell lung cancer, many patients have experienced increased overall survival. To improve selection of ICI responders versus nonresponders, microsatellite instability/mismatch repair deficiency (MSI/MMR) and tumor mutation burden (TMB) came into play. Clinical data show PD-L1, MSI/MMR, and TMB are independent predictive immunotherapy biomarkers. Harmonization of testing methodologies, optimization of assay design, and results analysis are ongoing. Future algorithms to determine immunotherapy eligibility might involve complementary use of current and novel biomarkers. Artificial intelligence could facilitate algorithm implementation to convert complex genetic data into recommendations for specific ICIs.
+38692812	137	162	programmed death ligand 1	Gene	29126
+38692812	164	169	PD-L1	Gene	29126
+38692812	281	289	patients	Species	9606
+38692812	527	532	PD-L1	Gene	29126
