@@ -1,3 +1,5 @@
+# Reference - this script involves the use of Cursor AI https://cursor.com
+
 """
 Lightweight PubMed API fetcher to produce the same basic text layout this
 project consumes (per-PMID `.txt` with title/abstract rows). This does NOT
@@ -120,3 +122,4 @@ def chunked(iterable: List[str], size: int) -> Iterable[List[str]]:
     for i in range(0, len(iterable), size):
         yield iterable[i : i + size]
 
+# end of reference
