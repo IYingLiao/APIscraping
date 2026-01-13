@@ -1,3 +1,5 @@
+# Reference - this script involves the use of Cursor AI https://cursor.com
+
 """Search handler for finding articles with entities until target count is reached."""
 
 from typing import List, Tuple
@@ -219,3 +221,5 @@ def fetch_with_entities(query: str, target_count: int, batch_size: int,
         print("Consider expanding your query, using a different date range, or lowering --max-results.")
     
     return articles_saved
+                          
+# end of reference                        
