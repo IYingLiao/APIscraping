@@ -4,7 +4,7 @@ project consumes (per-PMID `.txt` with title/abstract rows). This does NOT
 perform entity tagging or relation extraction; it only pulls title/abstracts.
 
 Usage (example):
-    python scripts/pubmed_fetcher.py --query "delirium" --max-results 200 --out-dir data_raw
+    python scripts/pubmed_fetcher.py --query "lung cancer" --max-results 200 --out-dir data_raw
 
 Outputs:
     data_raw/<PMID>.txt with:
