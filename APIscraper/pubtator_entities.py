@@ -1,3 +1,5 @@
+# Reference - this script involves the use of Cursor AI https://cursor.com
+
 """
 Fetch PubTator3 entity annotations for a PubMed PMID.
 
@@ -135,4 +137,5 @@ def append_entities_to_file(pmid: str, out_dir: str) -> bool:
         os.remove(file_path)
         print(f"  Deleted {pmid}.txt: Failed to fetch entities ({e})", file=sys.stderr)
         return False
-
+        
+# end of reference
