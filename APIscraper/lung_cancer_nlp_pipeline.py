@@ -1,3 +1,5 @@
+# Reference - this script involves the use of Cursor AI https://cursor.com
+
 """
 Simple local NLP pipeline to generate delirium-style output files
 for lung cancer abstracts in `data_raw_lung/`, **without** reading
@@ -156,5 +158,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
+    
+# end of the reference
 
