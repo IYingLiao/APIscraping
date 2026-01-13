@@ -1,4 +1,4 @@
-# Reference - this script involves the use of Cursor AI https://cursor.com
+# Reference 2 - this script involves the use of Cursor AI https://cursor.com
 
 """
 Simple local NLP pipeline to generate delirium-style output files
