@@ -1,3 +1,5 @@
+# Reference - this script involves the use of Cursor AI https://cursor.com
+
 """Main orchestrator for PubMed article fetching with entity extraction."""
 
 import argparse
@@ -105,3 +107,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# end of reference
