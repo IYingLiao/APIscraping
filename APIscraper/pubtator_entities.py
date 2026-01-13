@@ -1,4 +1,4 @@
-# Reference - this script involves the use of Cursor AI https://cursor.com
+# Reference 2 - this script involves the use of Cursor AI https://cursor.com
 
 """
 Fetch PubTator3 entity annotations for a PubMed PMID.
