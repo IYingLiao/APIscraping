@@ -1,3 +1,4 @@
+# Reference 2 - this script involves the use of Cursor AI https://cursor.com
 
 """
 Lightweight PubMed API fetcher to produce the same basic text layout this
@@ -115,7 +116,7 @@ def save_article_txt(article: Dict[str, str], out_dir: str) -> None:
         f.write(f"{pmid}|a|{abstract}\n")
     print(f"Wrote {path}")
 
-
+# end of reference
 def chunked(iterable: List[str], size: int) -> Iterable[List[str]]:
     """Yield fixed-size chunks from a list."""
     for i in range(0, len(iterable), size):
