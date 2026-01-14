@@ -1,4 +1,3 @@
-# Reference 2 - this script involves the use of Cursor AI https://cursor.com
 
 """Search handler for finding articles with entities until target count is reached."""
 
@@ -222,4 +221,3 @@ def fetch_with_entities(query: str, target_count: int, batch_size: int,
     
     return articles_saved
                           
-# end of reference                        
