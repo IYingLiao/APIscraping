@@ -1,4 +1,3 @@
-# Reference 2 - this script involves the use of Cursor AI https://cursor.com
 
 """Entity statistics utilities for analyzing extracted entities."""
 
@@ -65,5 +64,3 @@ def print_entity_statistics(entity_counter: Counter, out_dir: str) -> None:
     print(f"Total files analyzed: {total_files}")
     print(f"Output directory: {out_dir}")
     print("="*70 + "\n")
-
-# end of reference
